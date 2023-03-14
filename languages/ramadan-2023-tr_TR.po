@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple.Tools - Prayer Campaigns 2.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
-"POT-Creation-Date: 2023-02-06T13:23:05+00:00\n"
+"POT-Creation-Date: 2023-02-27T10:59:57+00:00\n"
 "PO-Revision-Date: 2022-12-13 16:52+0100\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://translate.disciple.tools/projects/disciple-"
@@ -17,28 +17,28 @@ msgstr ""
 "X-Generator: Poedit 3.2.2\n"
 "X-Domain: disciple-tools-prayer-campaigns\n"
 
-#: admin/admin-menu-and-tabs.php:189
+#: admin/admin-menu-and-tabs.php:190
 msgid ""
 "Jesus, give the church [in location] grace to cherish your name above all "
 "else"
 msgstr ""
 
-#: admin/admin-menu-and-tabs.php:199
+#: admin/admin-menu-and-tabs.php:200
 msgid "let the people [of location] grasp the Good News"
 msgstr ""
 
-#: admin/admin-menu-and-tabs.php:209
+#: admin/admin-menu-and-tabs.php:210
 msgid "How could this quote inspire you to pray for [people_group]?"
 msgstr ""
 
-#: admin/prayer-field-content.php:70
+#: admin/prayer-field-content.php:71
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] see you through Jesus, the radiance of your glory, the exact "
 "imprint of your nature! (Hebrews 1:3)"
 msgstr ""
 
-#: admin/prayer-field-content.php:71
+#: admin/prayer-field-content.php:72
 msgid ""
 "\"I am twenty-four and from Tunisia. I had a lot of debt and owed a lot of "
 "people and the government money. I asked myself, \"Why don't I ask God to "
@@ -54,7 +54,7 @@ msgid ""
 "search and discuss the Bible with friends."
 msgstr ""
 
-#: admin/prayer-field-content.php:74
+#: admin/prayer-field-content.php:75
 msgid ""
 "“When an attempt was made by both Gentiles and Jews, with their rulers, to "
 "mistreat them and to stone them, they learned of it and fled to Lystra and "
@@ -67,34 +67,34 @@ msgid ""
 "cannot be shaken by persecution.\""
 msgstr ""
 
-#: admin/prayer-field-content.php:77 admin/prayer-field-content.php:87
-#: admin/prayer-field-content.php:98 admin/prayer-field-content.php:108
-#: admin/prayer-field-content.php:122 admin/prayer-field-content.php:132
-#: admin/prayer-field-content.php:142 admin/prayer-field-content.php:152
-#: admin/prayer-field-content.php:168 admin/prayer-field-content.php:178
-#: admin/prayer-field-content.php:194 admin/prayer-field-content.php:209
-#: admin/prayer-field-content.php:222 admin/prayer-field-content.php:232
-#: admin/prayer-field-content.php:244 admin/prayer-field-content.php:258
-#: admin/prayer-field-content.php:270 admin/prayer-field-content.php:282
-#: admin/prayer-field-content.php:296 admin/prayer-field-content.php:310
-#: admin/prayer-field-content.php:328 admin/prayer-field-content.php:340
-#: admin/prayer-field-content.php:359 admin/prayer-field-content.php:371
-#: admin/prayer-field-content.php:381 admin/prayer-field-content.php:393
-#: admin/prayer-field-content.php:405 admin/prayer-field-content.php:417
-#: admin/prayer-field-content.php:432 admin/prayer-field-content.php:444
-#: admin/prayer-field-content.php:456
+#: admin/prayer-field-content.php:78 admin/prayer-field-content.php:88
+#: admin/prayer-field-content.php:99 admin/prayer-field-content.php:109
+#: admin/prayer-field-content.php:123 admin/prayer-field-content.php:133
+#: admin/prayer-field-content.php:143 admin/prayer-field-content.php:153
+#: admin/prayer-field-content.php:169 admin/prayer-field-content.php:179
+#: admin/prayer-field-content.php:195 admin/prayer-field-content.php:210
+#: admin/prayer-field-content.php:223 admin/prayer-field-content.php:233
+#: admin/prayer-field-content.php:245 admin/prayer-field-content.php:259
+#: admin/prayer-field-content.php:271 admin/prayer-field-content.php:283
+#: admin/prayer-field-content.php:297 admin/prayer-field-content.php:311
+#: admin/prayer-field-content.php:329 admin/prayer-field-content.php:341
+#: admin/prayer-field-content.php:360 admin/prayer-field-content.php:372
+#: admin/prayer-field-content.php:382 admin/prayer-field-content.php:394
+#: admin/prayer-field-content.php:406 admin/prayer-field-content.php:418
+#: admin/prayer-field-content.php:433 admin/prayer-field-content.php:445
+#: admin/prayer-field-content.php:457
 msgid ""
 "As you look at this image, how does God lead you to pray for these people?"
 msgstr ""
 
-#: admin/prayer-field-content.php:78
+#: admin/prayer-field-content.php:79
 msgid ""
 "\"This is the grand purpose for which we were created: to enjoy the grace of "
 "Christ as we spread the gospel of Christ from wherever we live, to the ends "
 "of the earth.\" - David Platt "
 msgstr ""
 
-#: admin/prayer-field-content.php:82
+#: admin/prayer-field-content.php:83
 msgid ""
 "God, we love you! As your Church, help us do what it takes to gladden the "
 "hearts of your people [in location] as they understand that Jesus completely "
@@ -102,7 +102,7 @@ msgid ""
 "of Majesty! (Hebrews 1:3-4)"
 msgstr ""
 
-#: admin/prayer-field-content.php:83
+#: admin/prayer-field-content.php:84
 msgid ""
 "I am Abraham and I grew up in a Muslim family in India. The doctor said the "
 "baby inside my pregnant wife would die. Followers of Jesus offered to pray "
@@ -116,7 +116,7 @@ msgid ""
 "Muslim world."
 msgstr ""
 
-#: admin/prayer-field-content.php:84
+#: admin/prayer-field-content.php:85
 msgid ""
 "“So Peter was kept in prison, but earnest prayer for him was made to God by "
 "the church.” (Acts 12:5 ESV).\n"
@@ -127,21 +127,21 @@ msgid ""
 "prayers of the church [in location].\""
 msgstr ""
 
-#: admin/prayer-field-content.php:88
+#: admin/prayer-field-content.php:89
 msgid ""
 "“There is not a square inch in the whole domain of our human existence over "
 "which Christ, who is Sovereign over all, does not cry, Mine!” - Abraham "
 "Kuyper"
 msgstr ""
 
-#: admin/prayer-field-content.php:92
+#: admin/prayer-field-content.php:93
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that when Jesus taught us to pray to you "
 "He told us to call you our Father! (Matthew 6:6-14)"
 msgstr ""
 
-#: admin/prayer-field-content.php:93
+#: admin/prayer-field-content.php:94
 msgid ""
 "Fawad saw a Facebook ad one day about the prophet Abraham ready to sacrifice "
 "his son. He had questions and he reached out to a Christian social media "
@@ -156,7 +156,7 @@ msgid ""
 "like Fawad's [in location]."
 msgstr ""
 
-#: admin/prayer-field-content.php:94
+#: admin/prayer-field-content.php:95
 msgid ""
 "“but you shall cling to the Lord your God just as you have done to this "
 "day.” (Joshua 23:8 ESV).\n"
@@ -168,14 +168,14 @@ msgid ""
 "finishing of the race (2 Timothy 4:7)."
 msgstr ""
 
-#: admin/prayer-field-content.php:99
+#: admin/prayer-field-content.php:100
 msgid ""
 "“Never pity missionaries; envy them. They are where the real action is — "
 "where life and death, sin and grace, Heaven and Hell converge.” - Robert C. "
 "Shannon"
 msgstr ""
 
-#: admin/prayer-field-content.php:103
+#: admin/prayer-field-content.php:104
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus' cross was the one place in the "
@@ -185,7 +185,7 @@ msgid ""
 "chastised, and anguished (Isaiah 52-53) so that WE don't have to be."
 msgstr ""
 
-#: admin/prayer-field-content.php:104
+#: admin/prayer-field-content.php:105
 msgid ""
 "Sakib was born in a Muslim family but had many doubts about his religion. He "
 "found the truth in the Holy Bible. He said, “Now it is my responsibility to "
@@ -195,7 +195,7 @@ msgid ""
 "world who are being tranformed through the Living Word of God. "
 msgstr ""
 
-#: admin/prayer-field-content.php:105
+#: admin/prayer-field-content.php:106
 msgid ""
 "“Their idols are like scarecrows in a cucumber field, and they cannot speak; "
 "they have to be carried, for they cannot walk. Do not be afraid of them, for "
@@ -209,20 +209,20 @@ msgid ""
 "discernment as they fight idolatry in community."
 msgstr ""
 
-#: admin/prayer-field-content.php:109
+#: admin/prayer-field-content.php:110
 msgid ""
 "\"We must be global Christians with a global vision because our God is a "
 "global God.\" - John Stott"
 msgstr ""
 
-#: admin/prayer-field-content.php:113
+#: admin/prayer-field-content.php:114
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we receive grace IN Christ! (1 "
 "Corinthians 1:4)"
 msgstr ""
 
-#: admin/prayer-field-content.php:114
+#: admin/prayer-field-content.php:115
 msgid ""
 "Jannat had a question for a Christian she was talking to: \"I read some "
 "parts of the Bible, and there I found that Jesus came only for the Jews, but "
@@ -243,7 +243,7 @@ msgid ""
 "with others. "
 msgstr ""
 
-#: admin/prayer-field-content.php:119
+#: admin/prayer-field-content.php:120
 msgid ""
 "“For we who have believed enter that rest, as he has said, “As I swore in my "
 "wrath, ‘They shall not enter my rest,’” although his works were finished "
@@ -256,20 +256,20 @@ msgid ""
 "will do among all the tribes and tongues [of location] and the whole earth."
 msgstr ""
 
-#: admin/prayer-field-content.php:123
+#: admin/prayer-field-content.php:124
 msgid ""
 "\"We talk of the second coming; half the world has never heard of the first."
 "\" - Oswald J. Smith"
 msgstr ""
 
-#: admin/prayer-field-content.php:127
+#: admin/prayer-field-content.php:128
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that our redemption is IN Christ! (Romans "
 "3:24)"
 msgstr ""
 
-#: admin/prayer-field-content.php:128
+#: admin/prayer-field-content.php:129
 msgid ""
 "My name is Khalid and I am a follower of Jesus in Morocco. My abusive Father "
 "died this year and I am the oldest in my family. It is my job to care for my "
@@ -285,7 +285,7 @@ msgid ""
 "trying to lead their family on a journey to Christ."
 msgstr ""
 
-#: admin/prayer-field-content.php:129
+#: admin/prayer-field-content.php:130
 msgid ""
 "“He who testifies to these things says, “Surely I am coming soon.” Amen. "
 "Come, Lord Jesus!” (Revelation 22:20 ESV).\n"
@@ -296,20 +296,20 @@ msgid ""
 "location] eternal hope in the glory of your return."
 msgstr ""
 
-#: admin/prayer-field-content.php:133
+#: admin/prayer-field-content.php:134
 msgid ""
 "\"Some wish to live within the sound of a chapel bell; I wish to run a "
 "rescue mission within a yard of hell.\" - C. T. Studd"
 msgstr ""
 
-#: admin/prayer-field-content.php:137
+#: admin/prayer-field-content.php:138
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we are justified IN Christ! "
 "(Galatians 2:17)"
 msgstr ""
 
-#: admin/prayer-field-content.php:138
+#: admin/prayer-field-content.php:139
 msgid ""
 "Malik is a 49 year old man from Gilgit Baltistan area. He had a lot of "
 "doubts about Islam that led him to explore Christianity. He shared that he "
@@ -329,7 +329,7 @@ msgid ""
 "search of the truth. "
 msgstr ""
 
-#: admin/prayer-field-content.php:139
+#: admin/prayer-field-content.php:140
 msgid ""
 "“I will cut off the chariot from Ephraim and the war horse from Jerusalem; "
 "and the battle bow shall be cut off, and he shall speak peace to the "
@@ -344,20 +344,20 @@ msgid ""
 "their sacrifice, service, and forgiveness."
 msgstr ""
 
-#: admin/prayer-field-content.php:143
+#: admin/prayer-field-content.php:144
 msgid ""
 "\"Pray as though everything depended on God. Work as though everything "
 "depended on you.\" - Augustine"
 msgstr ""
 
-#: admin/prayer-field-content.php:147
+#: admin/prayer-field-content.php:148
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we have complete forgiveness of all "
 "our sins IN Christ! (Ephesians 4:32)"
 msgstr ""
 
-#: admin/prayer-field-content.php:148
+#: admin/prayer-field-content.php:149
 msgid ""
 "Ahran, a new believer in Morocco shared: \"I have always admired "
 "Christianity and its teachings, and I have always seen that those who "
@@ -371,7 +371,7 @@ msgid ""
 "new faith and find a strong fellowship of believers."
 msgstr ""
 
-#: admin/prayer-field-content.php:149
+#: admin/prayer-field-content.php:150
 msgid ""
 "“Mark the blameless and behold the upright, for there is a future for the "
 "man of peace.” (Psalm 37:37 ESV).\n"
@@ -383,20 +383,20 @@ msgid ""
 "and guide their feet in the way of peace that leads to you and your glory."
 msgstr ""
 
-#: admin/prayer-field-content.php:153
+#: admin/prayer-field-content.php:154
 msgid ""
 "The Spirit of Christ is the Spirit of missions. The nearer we get to Him, "
 "the more intensely missionary we become. - Henry Martyn"
 msgstr ""
 
-#: admin/prayer-field-content.php:157
+#: admin/prayer-field-content.php:158
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that there is no condemnation at all IN "
 "Christ! (Romans 8:1)"
 msgstr ""
 
-#: admin/prayer-field-content.php:158
+#: admin/prayer-field-content.php:159
 msgid ""
 "Mahmoud is a young man from Upper Egypt whose family lives in a small "
 "village. When he was eight years old, he was sent to Cairo to work to help "
@@ -438,7 +438,7 @@ msgid ""
 "bondage of Islam, to find the hope and the freedom in Jesus Christ."
 msgstr ""
 
-#: admin/prayer-field-content.php:165
+#: admin/prayer-field-content.php:166
 msgid ""
 "“You have given me the shield of your salvation, and your right hand "
 "supported me, and your gentleness made me great.” (Psalm 18:35 ESV).\n"
@@ -449,20 +449,20 @@ msgid ""
 "18:35) Teach your followers [in location] the true meaning of greatness."
 msgstr ""
 
-#: admin/prayer-field-content.php:169
+#: admin/prayer-field-content.php:170
 msgid ""
 "This generation of Christians is responsible for this generation of souls on "
 "the earth! — Keith Green"
 msgstr ""
 
-#: admin/prayer-field-content.php:173
+#: admin/prayer-field-content.php:174
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we are new creations IN Christ! (2 "
 "Corinthians 5:17)"
 msgstr ""
 
-#: admin/prayer-field-content.php:174
+#: admin/prayer-field-content.php:175
 msgid ""
 "Mesbah from Bangladesh said that, \"Atheism seemed right after one becomes "
 "disillusioned with his religion”. But later he realized that this vast and "
@@ -476,7 +476,7 @@ msgid ""
 "existence and continues to speak through the Word who became flesh."
 msgstr ""
 
-#: admin/prayer-field-content.php:175
+#: admin/prayer-field-content.php:176
 msgid ""
 "“If others share this rightful claim on you, do not we even more? "
 "Nevertheless, we have not made use of this right, but we endure anything "
@@ -492,21 +492,21 @@ msgid ""
 "suffering. May it be so [in location]."
 msgstr ""
 
-#: admin/prayer-field-content.php:179
+#: admin/prayer-field-content.php:180
 msgid ""
 "We can reach our world, if we will. The greatest lack today is not people or "
 "funds. The greatest need is prayer. — Wesley Duewel, head of OMS "
 "International"
 msgstr ""
 
-#: admin/prayer-field-content.php:183
+#: admin/prayer-field-content.php:184
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we have eternal life IN Christ! "
 "(Romans 6:23)"
 msgstr ""
 
-#: admin/prayer-field-content.php:184
+#: admin/prayer-field-content.php:185
 msgid ""
 "When I was 29 years old I became addicted to drugs after my fiance broke up "
 "with me and my job was terrible.\n"
@@ -537,7 +537,7 @@ msgid ""
 "become a new person and I am full of hope."
 msgstr ""
 
-#: admin/prayer-field-content.php:191
+#: admin/prayer-field-content.php:192
 msgid ""
 "“Come and hear, all you who fear God, and I will tell what he has done for "
 "my soul.” (Psalm 66:16 ESV).\n"
@@ -550,19 +550,19 @@ msgid ""
 "testimony to ears you've prepared to hear and receive it."
 msgstr ""
 
-#: admin/prayer-field-content.php:195
+#: admin/prayer-field-content.php:196
 msgid ""
 "“The history of missions is the history of answered prayer.” - Samuel Zwemer"
 msgstr ""
 
-#: admin/prayer-field-content.php:199
+#: admin/prayer-field-content.php:200
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that you supply all our needs IN Christ! "
 "(Philippians 4:19)"
 msgstr ""
 
-#: admin/prayer-field-content.php:200
+#: admin/prayer-field-content.php:201
 msgid ""
 "Jane from Senegal found herself pregnant as a teenager and so somehow gave "
 "her self an abortion. A few years later, she was pregnant again. This time "
@@ -580,7 +580,7 @@ msgid ""
 "for their sins and extending forgiveness to those who have wronged them."
 msgstr ""
 
-#: admin/prayer-field-content.php:205
+#: admin/prayer-field-content.php:206
 msgid ""
 "“Then my enemies will turn back in the day when I call. This I know, that "
 "God is for me.” (Psalm 56:9 ESV).\n"
@@ -592,21 +592,21 @@ msgid ""
 "generations in saying \"This I know, that God is for me.\" (Psalm 56:9).\n"
 msgstr ""
 
-#: admin/prayer-field-content.php:210
+#: admin/prayer-field-content.php:211
 msgid ""
 "In our lifetime, wouldn't it be sad if we spent more time washing dishes or "
 "swatting flies or mowing the yard or watching television than praying for "
 "world missions? — Dave Davidson"
 msgstr ""
 
-#: admin/prayer-field-content.php:214
+#: admin/prayer-field-content.php:215
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we have every spiritual blessing of "
 "Heaven IN Christ! (Ephesians 1:3)"
 msgstr ""
 
-#: admin/prayer-field-content.php:215
+#: admin/prayer-field-content.php:216
 msgid ""
 "Zarish is a new believer in Pakistan who was miraculously healed from a "
 "spinal injury through the power of prayer. She reported feeling the presence "
@@ -624,7 +624,7 @@ msgid ""
 "refusal to put hope in anything other than Jesus. \n"
 msgstr ""
 
-#: admin/prayer-field-content.php:219
+#: admin/prayer-field-content.php:220
 msgid ""
 "“and was declared to be the Son of God in power according to the Spirit of "
 "holiness by his resurrection from the dead, Jesus Christ our Lord, through "
@@ -639,20 +639,20 @@ msgid ""
 "disciple their communities into love for Jesus.\""
 msgstr ""
 
-#: admin/prayer-field-content.php:223
+#: admin/prayer-field-content.php:224
 msgid ""
 "A church that is not a missionary church is contradicting itself and "
 "quenching the Spirit. – Lausanne Covenant"
 msgstr ""
 
-#: admin/prayer-field-content.php:227
+#: admin/prayer-field-content.php:228
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we will be presented to you perfect "
 "IN Christ! (Colossians 1:28)"
 msgstr ""
 
-#: admin/prayer-field-content.php:228
+#: admin/prayer-field-content.php:229
 msgid ""
 "I was never very religious, and I was a Muslim simply because my parents "
 "were. I believed that God was distant and angry with me. I suffer from a "
@@ -670,7 +670,7 @@ msgid ""
 "Corinthians 13."
 msgstr ""
 
-#: admin/prayer-field-content.php:229
+#: admin/prayer-field-content.php:230
 msgid ""
 "“Then Paul answered, “What are you doing, weeping and breaking my heart? For "
 "I am ready not only to be imprisoned but even to die in Jerusalem for the "
@@ -682,20 +682,20 @@ msgid ""
 "but even to die...for the name of the Lord Jesus.\" (Acts 21:13)."
 msgstr ""
 
-#: admin/prayer-field-content.php:233
+#: admin/prayer-field-content.php:234
 msgid ""
 "If the Great Commission is true, our plans are not too big; they are too "
 "small. — Pat Morley"
 msgstr ""
 
-#: admin/prayer-field-content.php:237
+#: admin/prayer-field-content.php:238
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we cannot be separated from your love "
 "IN Christ! (Romans 8:32)"
 msgstr ""
 
-#: admin/prayer-field-content.php:238
+#: admin/prayer-field-content.php:239
 msgid ""
 "Suneel is a very active MBB (Muslim background believer). He loves to share "
 "the Good News with his friends. One of his friends accepted Jesus recently. "
@@ -706,7 +706,7 @@ msgid ""
 "others just like Suneel."
 msgstr ""
 
-#: admin/prayer-field-content.php:241
+#: admin/prayer-field-content.php:242
 msgid ""
 "“It is enough for the disciple to be like his teacher, and the servant like "
 "his master. If they have called the master of the house Beelzebul, how much "
@@ -720,21 +720,21 @@ msgid ""
 "becoming more and more like you, even as the world scoffs and condemns."
 msgstr ""
 
-#: admin/prayer-field-content.php:245
+#: admin/prayer-field-content.php:246
 msgid ""
 "\"We should not ask, 'What is wrong with the world?', for that diagnosis has "
 "already been given. Rather we should ask, 'What has happened to the salt and "
 "light?'\"John Stott"
 msgstr ""
 
-#: admin/prayer-field-content.php:249
+#: admin/prayer-field-content.php:250
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we are one body IN Christ! (Romans "
 "12:5)"
 msgstr ""
 
-#: admin/prayer-field-content.php:250
+#: admin/prayer-field-content.php:251
 msgid ""
 "Ruhi is ready to take the next step and be baptized.\n"
 "\n"
@@ -748,7 +748,7 @@ msgid ""
 "being wed to the Lamb of God through baptism."
 msgstr ""
 
-#: admin/prayer-field-content.php:255
+#: admin/prayer-field-content.php:256
 msgid ""
 "For we are slaves. Yet our God has not forsaken us in our slavery, but has "
 "extended to us his steadfast love before the kings of Persia, to grant us "
@@ -762,21 +762,21 @@ msgid ""
 "slavery.\" (Ezra 9:9)."
 msgstr ""
 
-#: admin/prayer-field-content.php:259
+#: admin/prayer-field-content.php:260
 msgid ""
 "It is possible for the most obscure person in a church, with a heart right "
 "toward God, to exercise as much power for the evangelization of the world, "
 "as it is for those who stand in the most prominent positions. — John R. Mott"
 msgstr ""
 
-#: admin/prayer-field-content.php:263
+#: admin/prayer-field-content.php:264
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus brought the message of the "
 "Kingdom of Heaven being at hand! (Matthew 4:17)"
 msgstr ""
 
-#: admin/prayer-field-content.php:264
+#: admin/prayer-field-content.php:265
 msgid ""
 "Shahid became a believer two and a half years ago. He lives in Multan and "
 "comes from a family of “Pir Culture”. His father is a Pir and they have his "
@@ -793,7 +793,7 @@ msgid ""
 "to Him."
 msgstr ""
 
-#: admin/prayer-field-content.php:267
+#: admin/prayer-field-content.php:268
 msgid ""
 "“O our God, will you not execute judgment on them? For we are powerless "
 "against this great horde that is coming against us. We do not know what to "
@@ -807,20 +807,20 @@ msgid ""
 "do, but our eyes on you, Lord.\" (2 Chronicles 20:12)."
 msgstr ""
 
-#: admin/prayer-field-content.php:271
+#: admin/prayer-field-content.php:272
 msgid ""
 "If you take missions out of the Bible, you won't have anything left but the "
 "covers. — Nina Gunter"
 msgstr ""
 
-#: admin/prayer-field-content.php:275
+#: admin/prayer-field-content.php:276
 msgid ""
 "God, we love you! As your Church, help us to do what it takes to let the "
 "people [of location] grasp the Good News that Jesus has authority even over "
 "all of nature! (Matthew 8:27)"
 msgstr ""
 
-#: admin/prayer-field-content.php:276
+#: admin/prayer-field-content.php:277
 msgid ""
 "Hamid is a Muslim background believer who is facing a lot of difficulties "
 "and persecution because of his faith. He was reported and arrested by the "
@@ -834,7 +834,7 @@ msgid ""
 "for his protection, strength and comfort from God."
 msgstr ""
 
-#: admin/prayer-field-content.php:279
+#: admin/prayer-field-content.php:280
 msgid ""
 "“Do not fear what you are about to suffer. Behold, the devil is about to "
 "throw some of you into prison, that you may be tested, and for ten days you "
@@ -848,21 +848,21 @@ msgid ""
 "them. (Revelation 2:10)."
 msgstr ""
 
-#: admin/prayer-field-content.php:283
+#: admin/prayer-field-content.php:284
 msgid ""
 "“His authority on earth allows us to dare to go to all the nations. His "
 "authority in heaven gives us our only hope of success. And His presence with "
 "us leaves us no other choice.” -John Stott"
 msgstr ""
 
-#: admin/prayer-field-content.php:287
+#: admin/prayer-field-content.php:288
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus was so overwhelmingly superior "
 "to demons that they literally begged Him for mercy! (Matthew 8:31)"
 msgstr ""
 
-#: admin/prayer-field-content.php:288
+#: admin/prayer-field-content.php:289
 msgid ""
 "Sayed yearned to meet the Jesus he heard about from a Christian friend. His "
 "life was crazy with university, family business responsibilities and being "
@@ -891,7 +891,7 @@ msgid ""
 "to help them understand what this dream can mean."
 msgstr ""
 
-#: admin/prayer-field-content.php:293
+#: admin/prayer-field-content.php:294
 msgid ""
 "“And we have seen and testify that the Father has sent his Son to be the "
 "Savior of the world.” (1 John 4:14 ESV).\n"
@@ -904,7 +904,7 @@ msgid ""
 "this beautiful message."
 msgstr ""
 
-#: admin/prayer-field-content.php:297
+#: admin/prayer-field-content.php:298
 msgid ""
 "\"I've heard people say, 'I want more of a heart for missions.' I always "
 "respond, 'Jesus tells you exactly how to get it. Put your money in missions "
@@ -912,14 +912,14 @@ msgid ""
 "Alcorn"
 msgstr ""
 
-#: admin/prayer-field-content.php:301
+#: admin/prayer-field-content.php:302
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus' message was that He wanted us "
 "to follow Him, the greatest man in the history of the universe! (Matthew 9:9)"
 msgstr ""
 
-#: admin/prayer-field-content.php:302
+#: admin/prayer-field-content.php:303
 msgid ""
 "After reading the gospel of Matthew, Taariq, a new believer, said, 'I feel "
 "as if I am in another world. I feel at peace. Inner peace, as if I have left "
@@ -934,7 +934,7 @@ msgid ""
 "consume it daily."
 msgstr ""
 
-#: admin/prayer-field-content.php:307
+#: admin/prayer-field-content.php:308
 msgid ""
 "“With God we shall do valiantly; it is he who will tread down our "
 "foes.” (Psalm 108:13 ESV).\n"
@@ -946,19 +946,19 @@ msgid ""
 "will tread down our foes.\" (Psalm 108:13)."
 msgstr ""
 
-#: admin/prayer-field-content.php:311
+#: admin/prayer-field-content.php:312
 msgid ""
 "“What can we do to win these men to Christ?” – Richard Wurmbrand, The Voice "
 "of the Martyrs (referring to the men who were persecuting him)"
 msgstr ""
 
-#: admin/prayer-field-content.php:315
+#: admin/prayer-field-content.php:316
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus offered us life! (Matthew 10:38)"
 msgstr ""
 
-#: admin/prayer-field-content.php:316
+#: admin/prayer-field-content.php:317
 msgid ""
 "Hamzaa, a taxi driver living in Iraq, first heard about Christianity when "
 "tuning in to a Christian radio station while he was working. He became "
@@ -987,7 +987,7 @@ msgid ""
 "believers."
 msgstr ""
 
-#: admin/prayer-field-content.php:325
+#: admin/prayer-field-content.php:326
 msgid ""
 "“By Silvanus, a faithful brother as I regard him, I have written briefly to "
 "you, exhorting and declaring that this is the true grace of God. Stand firm "
@@ -999,20 +999,20 @@ msgid ""
 "stand and build this eternally valuable corner of your kingdom."
 msgstr ""
 
-#: admin/prayer-field-content.php:329
+#: admin/prayer-field-content.php:330
 msgid ""
 "“We who have Christ’s eternal life need to throw away our own lives.” -"
 "George Verwer"
 msgstr ""
 
-#: admin/prayer-field-content.php:333
+#: admin/prayer-field-content.php:334
 msgid ""
 "God, we love you! As your Church help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus responded with compassion to "
 "persistent faith! (Matthew 15:28)"
 msgstr ""
 
-#: admin/prayer-field-content.php:334
+#: admin/prayer-field-content.php:335
 msgid ""
 "Tauqeer is a seeker who has been talking to a believer online about whether "
 "Mohammad is the greatest prophet or not? The believer asked him, \"Should we "
@@ -1025,7 +1025,7 @@ msgid ""
 "open his heart to the Truth."
 msgstr ""
 
-#: admin/prayer-field-content.php:337
+#: admin/prayer-field-content.php:338
 msgid ""
 "“he says: “It is too light a thing that you should be my servant to raise up "
 "the tribes of Jacob and to bring back the preserved of Israel; I will make "
@@ -1038,20 +1038,20 @@ msgid ""
 "corner [of location] and to the ends of the earth. (Isaiah 49:6)."
 msgstr ""
 
-#: admin/prayer-field-content.php:341
+#: admin/prayer-field-content.php:342
 msgid ""
 "The question is not whether we will die, but whether we will die in a way "
 "that bears much fruit. - Adoniram Judson"
 msgstr ""
 
-#: admin/prayer-field-content.php:345
+#: admin/prayer-field-content.php:346
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus had authority over all disease "
 "and disability! (Matthew 15:31)"
 msgstr ""
 
-#: admin/prayer-field-content.php:346
+#: admin/prayer-field-content.php:347
 msgid ""
 "Farah fled war-torn Syria with her husband and small children when the war "
 "broke out. They found refuge in a nearby country and established a new life "
@@ -1087,7 +1087,7 @@ msgid ""
 "following Jesus.\n"
 msgstr ""
 
-#: admin/prayer-field-content.php:356
+#: admin/prayer-field-content.php:357
 msgid ""
 "“And they have conquered him by the blood of the Lamb and by the word of "
 "their testimony, for they loved not their lives even unto "
@@ -1100,20 +1100,20 @@ msgid ""
 "unto death.\" (Revelation 12:11)."
 msgstr ""
 
-#: admin/prayer-field-content.php:360
+#: admin/prayer-field-content.php:361
 msgid ""
 "“It’s not that God has a mission for His Church in the world, but that God "
 "has a Church for His mission in the world.” – Chris Wright"
 msgstr ""
 
-#: admin/prayer-field-content.php:364
+#: admin/prayer-field-content.php:365
 msgid ""
 "God, we love you! As your Church help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus offered a path to greatness in "
 "the Kingdom that anyone could choose to follow! (Matthew 18:4)"
 msgstr ""
 
-#: admin/prayer-field-content.php:365
+#: admin/prayer-field-content.php:366
 msgid ""
 "I am a forty-six years old woman from Tunisia. I saw a vision. The Messiah "
 "said, “I am the Truth.” I had already given up on Islam because of the "
@@ -1125,7 +1125,7 @@ msgid ""
 "His Word and obeying His commands."
 msgstr ""
 
-#: admin/prayer-field-content.php:368
+#: admin/prayer-field-content.php:369
 msgid ""
 "“In days to come Jacob shall take root, Israel shall blossom and put forth "
 "shoots and fill the whole world with fruit.” (Isaiah 27:6 ESV).\n"
@@ -1137,7 +1137,7 @@ msgid ""
 "have promised. (Isaiah 27:6)."
 msgstr ""
 
-#: admin/prayer-field-content.php:372
+#: admin/prayer-field-content.php:373
 msgid ""
 "“Rediscover the real meaning of the Great Commission. Beginning in our own "
 "prayer and devotional lives, we must begin to feel the compassion of the "
@@ -1148,7 +1148,7 @@ msgid ""
 "day.” – K.P. Yohannan, Come, Let’s Reach the World"
 msgstr ""
 
-#: admin/prayer-field-content.php:376
+#: admin/prayer-field-content.php:377
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus knowingly took one step after "
@@ -1156,7 +1156,7 @@ msgid ""
 "flogged, crucified and then be raised on the third day! (Matthew 20:19)"
 msgstr ""
 
-#: admin/prayer-field-content.php:377
+#: admin/prayer-field-content.php:378
 msgid ""
 "Hamza is a 27 years old man who lives in Punjab. He has always lived his "
 "life following Islamic rules closely but never felt satisfied as a follower. "
@@ -1175,7 +1175,7 @@ msgid ""
 "way to heaven is through Jesus. He put his faith in Jesus alone."
 msgstr ""
 
-#: admin/prayer-field-content.php:378
+#: admin/prayer-field-content.php:379
 msgid ""
 "“So also you have sorrow now, but I will see you again, and your hearts will "
 "rejoice, and no one will take your joy from you.” (John 16:22 ESV).\n"
@@ -1187,20 +1187,20 @@ msgid ""
 "may their joy be unshakable."
 msgstr ""
 
-#: admin/prayer-field-content.php:382
+#: admin/prayer-field-content.php:383
 msgid ""
 "“Jesus promised his disciples three things: they would be completely "
 "fearless, absurdly happy, and in constant trouble.” – G.K. Chesterton"
 msgstr ""
 
-#: admin/prayer-field-content.php:386
+#: admin/prayer-field-content.php:387
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus taught that for God those who "
 "have died are alive! (Matthew 22:32)"
 msgstr ""
 
-#: admin/prayer-field-content.php:387
+#: admin/prayer-field-content.php:388
 msgid ""
 "Since I was child, I respected Islam, prayed, read the Koran and the Hadith, "
 "and watched Islamic TV programs. As I prayed, I would cry out and ask God to "
@@ -1223,7 +1223,7 @@ msgid ""
 "others of God’s love."
 msgstr ""
 
-#: admin/prayer-field-content.php:390
+#: admin/prayer-field-content.php:391
 msgid ""
 "“and that repentance for the forgiveness of sins should be proclaimed in his "
 "name to all nations, beginning from Jerusalem.” (Luke 24:47 ESV).\n"
@@ -1237,18 +1237,18 @@ msgid ""
 "borders."
 msgstr ""
 
-#: admin/prayer-field-content.php:394
+#: admin/prayer-field-content.php:395
 msgid "“Put legs to your prayers” – Ray Comfort"
 msgstr ""
 
-#: admin/prayer-field-content.php:398
+#: admin/prayer-field-content.php:399
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus invited us to make you the "
 "center of our love and affection! (Matthew 22:37-40)"
 msgstr ""
 
-#: admin/prayer-field-content.php:399
+#: admin/prayer-field-content.php:400
 msgid ""
 "I am a married woman with two daughters. My daughters decided to follow "
 "Jesus, and I fought with them about their decision for a long time. Over "
@@ -1270,7 +1270,7 @@ msgid ""
 "and heal them so that they may know that He is true and is their Savior."
 msgstr ""
 
-#: admin/prayer-field-content.php:402
+#: admin/prayer-field-content.php:403
 msgid ""
 "“Though he slay me, I will hope in him; yet I will argue my ways to his "
 "face.” (Job 13:15 ESV).\n"
@@ -1282,7 +1282,7 @@ msgid ""
 "purposes, even as the waves of tragedy and challenge wash over them."
 msgstr ""
 
-#: admin/prayer-field-content.php:406
+#: admin/prayer-field-content.php:407
 msgid ""
 "“I believe that in each generation God has called enough men and women to "
 "evangelize all the yet unreached tribes of the earth. It is not God who does "
@@ -1290,14 +1290,14 @@ msgid ""
 "missionary to China and Thailand"
 msgstr ""
 
-#: admin/prayer-field-content.php:410
+#: admin/prayer-field-content.php:411
 msgid ""
 "God, we love you! As your Church help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus is coming back like lightning! "
 "(Matthew 24:27)"
 msgstr ""
 
-#: admin/prayer-field-content.php:411
+#: admin/prayer-field-content.php:412
 msgid ""
 "I am a twenty-three year old woman. My family situation is very difficult, "
 "especially with my father. I finally ran away. I went through some very hard "
@@ -1316,7 +1316,7 @@ msgid ""
 "Pray that God will give them strength to forgive."
 msgstr ""
 
-#: admin/prayer-field-content.php:414
+#: admin/prayer-field-content.php:415
 msgid ""
 "“Go your way; behold, I am sending you out as lambs in the midst of "
 "wolves.” (Luke 10:3 ESV).\n"
@@ -1329,21 +1329,21 @@ msgid ""
 "divided and lost. (Luke 10:3)."
 msgstr ""
 
-#: admin/prayer-field-content.php:418
+#: admin/prayer-field-content.php:419
 msgid ""
 "“If you are ever inclined to pray for a missionary, do it at once, where "
 "ever you are. Perhaps he may be in great peril at that moment.” – Amy "
 "Carmichael, 1867-1951, missionary to India"
 msgstr ""
 
-#: admin/prayer-field-content.php:422
+#: admin/prayer-field-content.php:423
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus will bless those who are "
 "faithful in this life! (Matthew 24:47)"
 msgstr ""
 
-#: admin/prayer-field-content.php:423
+#: admin/prayer-field-content.php:424
 msgid ""
 "I am Nasser, and I am from Afghanistan. When I was a teenager, my family "
 "fled The Taliban and went to Pakistan. I was from a well-to-do family, and "
@@ -1372,7 +1372,7 @@ msgid ""
 "in that country"
 msgstr ""
 
-#: admin/prayer-field-content.php:429
+#: admin/prayer-field-content.php:430
 msgid ""
 "“in whom we have boldness and access with confidence through our faith in "
 "him.” (Ephesians 3:12 ESV).\n"
@@ -1385,20 +1385,20 @@ msgid ""
 "enter the Holy of Holies."
 msgstr ""
 
-#: admin/prayer-field-content.php:433
+#: admin/prayer-field-content.php:434
 msgid ""
 "“Prayer is not a preparation for the battle; it is the battle!” – Leonard "
 "Ravenhill"
 msgstr ""
 
-#: admin/prayer-field-content.php:437
+#: admin/prayer-field-content.php:438
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus eagerly awaits the Kingdom to "
 "drink wine with us! (Matthew 26:29)"
 msgstr ""
 
-#: admin/prayer-field-content.php:438
+#: admin/prayer-field-content.php:439
 msgid ""
 "I am a thirty-year-old man from Tunisia. I was raised in a strict, "
 "practicing Muslim family. The first time I went to a church building, I had "
@@ -1417,7 +1417,7 @@ msgid ""
 "afraid to share the Good News!"
 msgstr ""
 
-#: admin/prayer-field-content.php:441
+#: admin/prayer-field-content.php:442
 msgid ""
 "“But though we had already suffered and been shamefully treated at Philippi, "
 "as you know, we had boldness in our God to declare to you the gospel of God "
@@ -1431,7 +1431,7 @@ msgid ""
 "church [in location]."
 msgstr ""
 
-#: admin/prayer-field-content.php:445
+#: admin/prayer-field-content.php:446
 msgid ""
 "“We never know how God will answer our prayers, but we can expect that He "
 "will get us involved in His plan for the answer. If we are true "
@@ -1439,14 +1439,14 @@ msgid ""
 "people for whom we pray.” – Corrie Ten Boom"
 msgstr ""
 
-#: admin/prayer-field-content.php:449
+#: admin/prayer-field-content.php:450
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus will be seated at the right "
 "hand of Power and come on the clouds of Heaven! (Matthew 26:64)"
 msgstr ""
 
-#: admin/prayer-field-content.php:450
+#: admin/prayer-field-content.php:451
 msgid ""
 "I am a twenty-two year old woman and study at the university. Before I was "
 "born, my mother dedicated me to an Islamic saint and made a covenant. Every "
@@ -1466,7 +1466,7 @@ msgid ""
 "Christ."
 msgstr ""
 
-#: admin/prayer-field-content.php:453
+#: admin/prayer-field-content.php:454
 msgid ""
 "“And he put the wood in order and cut the bull in pieces and laid it on the "
 "wood. And he said, “Fill four jars with water and pour it on the burnt "
@@ -1480,35 +1480,35 @@ msgid ""
 "earth. (1 Kings 18:33)."
 msgstr ""
 
-#: admin/prayer-field-content.php:457
+#: admin/prayer-field-content.php:458
 msgid ""
 "“The greatest missionary is the Bible in the mother tongue. It needs no "
 "furlough and is never considered a foreigner.” – William Cameron "
 "Townsend,1896-1982, Missionary to Peru and Mexico"
 msgstr ""
 
-#: admin/prayer-field-content.php:487
+#: admin/prayer-field-content.php:488
 msgid "Our Treasure in Jesus"
 msgstr ""
 
-#: admin/prayer-field-content.php:495
+#: admin/prayer-field-content.php:496
 msgid "Testimonies from Around the World"
 msgstr ""
 
-#: admin/prayer-field-content.php:503
+#: admin/prayer-field-content.php:504
 msgid "Biblical Prayers"
 msgstr ""
 
-#: admin/prayer-field-content.php:511
+#: admin/prayer-field-content.php:512
 #, fuzzy
 msgid "Prayer Walk"
 msgstr "Dua Yakıtı"
 
-#: admin/prayer-field-content.php:523
+#: admin/prayer-field-content.php:524
 msgid "Inspirational Quotes"
 msgstr ""
 
-#: admin/prayer-field-content.php:528
+#: admin/prayer-field-content.php:529
 msgid ""
 "How could this quote inspire you to pray for [people_group]? For yourself?"
 msgstr ""
