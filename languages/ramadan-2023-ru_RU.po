@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: P4M Prayer Campaigns\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
-"POT-Creation-Date: 2023-02-06T13:23:05+00:00\n"
-"PO-Revision-Date: 2023-01-11 03:13+0000\n"
+"POT-Creation-Date: 2023-02-27T10:59:57+00:00\n"
+"PO-Revision-Date: 2023-03-14 15:57+0000\n"
 "Last-Translator: Dmitry <dmitry_cherednikov@wycliffe.ru>\n"
 "Language-Team: Russian <https://translate.disciple.tools/projects/"
 "pray4movement/ramadan-2023/ru_RU/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.14.1\n"
 
-#: admin/admin-menu-and-tabs.php:189
+#: admin/admin-menu-and-tabs.php:190
 msgid ""
 "Jesus, give the church [in location] grace to cherish your name above all "
 "else"
@@ -23,15 +23,15 @@ msgstr ""
 "Иисус, дай церкви [in location] благодать, чтобы дорожить твоим именем "
 "превыше всего"
 
-#: admin/admin-menu-and-tabs.php:199
+#: admin/admin-menu-and-tabs.php:200
 msgid "let the people [of location] grasp the Good News"
 msgstr "пусть люди [of location] поймут Благую Весть"
 
-#: admin/admin-menu-and-tabs.php:209
+#: admin/admin-menu-and-tabs.php:210
 msgid "How could this quote inspire you to pray for [people_group]?"
 msgstr "Как эта цитата вдохновляет вас молиться за народы [people_group]?"
 
-#: admin/prayer-field-content.php:70
+#: admin/prayer-field-content.php:71
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] see you through Jesus, the radiance of your glory, the exact "
@@ -41,7 +41,7 @@ msgstr ""
 "чтобы люди [of location] увидели Тебя через Иисуса, сияние Твоей славы, "
 "точное подобие Твоей природы! (Евреям 1:3)"
 
-#: admin/prayer-field-content.php:71
+#: admin/prayer-field-content.php:72
 msgid ""
 "\"I am twenty-four and from Tunisia. I had a lot of debt and owed a lot of "
 "people and the government money. I asked myself, \"Why don't I ask God to "
@@ -58,17 +58,17 @@ msgid ""
 msgstr ""
 "«Мне двадцать четыре года, и я из Туниса. У меня было много долгов, я был "
 "должен многим людям и правительству. Я спросил себя: «Почему бы мне не "
-"попросить Бога помочь мне?» Правда в том, что я не не спрашивал, потому что "
-"не верил, что Бог поможет мне. Я оставил ислам и считал себя атеистом. Но во "
+"попросить Бога помочь мне?» Правда в том, что я не спрашивал, потому что не "
+"верил, что Бог поможет мне. Я оставил ислам и считал себя атеистом. Но во "
 "мне всегда было что-то, что говорило: «Бог есть». Я начал искать и обсуждать "
 "с друзьями ... В то время все мы были разочарованы, искали истину, а "
 "некоторые даже стали христианами. Мы все собираем информацию и делимся друг "
 "с другом. Молитесь за нас, чтобы мы вместе познали истину».\n"
 "\n"
-"Молитесь о духовных искателях в [in location] и во всем мусульманском мире, "
+"Молитесь о духовных ищущих в [in location] и во всем мусульманском мире, "
 "чтобы они искали и обсуждали Библию с друзьями."
 
-#: admin/prayer-field-content.php:74
+#: admin/prayer-field-content.php:75
 msgid ""
 "“When an attempt was made by both Gentiles and Jews, with their rulers, to "
 "mistreat them and to stone them, they learned of it and fled to Lystra and "
@@ -83,36 +83,36 @@ msgstr ""
 "«Но когда язычники и иудеи вместе со своими начальниками захотели применить "
 "силу и побить их камнями, те, узнав об этом, бежали в города Ликаонии, "
 "Листру и Дервию, и в их окрестности, где продолжали возвещать Радостную "
-"Весть.». (Деяния 14:5-7).\n"
+"Весть». (Деяния 14:5-7).\n"
 "\n"
 "Когда предпринимаются попытки плохого обращения с верующими [in location] — "
 "и даже когда некоторым приходится бежать — пусть они будут благословлены "
 "смелостью и настойчивостью, чтобы продолжать проповедовать Евангелие (Деяния "
-"14:5-7). Господи, дай им веру, которую не поколеблют гонения»."
+"14:5-7). Господи, дай им веру, которую не поколеблют гонения.»"
 
-#: admin/prayer-field-content.php:77 admin/prayer-field-content.php:87
-#: admin/prayer-field-content.php:98 admin/prayer-field-content.php:108
-#: admin/prayer-field-content.php:122 admin/prayer-field-content.php:132
-#: admin/prayer-field-content.php:142 admin/prayer-field-content.php:152
-#: admin/prayer-field-content.php:168 admin/prayer-field-content.php:178
-#: admin/prayer-field-content.php:194 admin/prayer-field-content.php:209
-#: admin/prayer-field-content.php:222 admin/prayer-field-content.php:232
-#: admin/prayer-field-content.php:244 admin/prayer-field-content.php:258
-#: admin/prayer-field-content.php:270 admin/prayer-field-content.php:282
-#: admin/prayer-field-content.php:296 admin/prayer-field-content.php:310
-#: admin/prayer-field-content.php:328 admin/prayer-field-content.php:340
-#: admin/prayer-field-content.php:359 admin/prayer-field-content.php:371
-#: admin/prayer-field-content.php:381 admin/prayer-field-content.php:393
-#: admin/prayer-field-content.php:405 admin/prayer-field-content.php:417
-#: admin/prayer-field-content.php:432 admin/prayer-field-content.php:444
-#: admin/prayer-field-content.php:456
+#: admin/prayer-field-content.php:78 admin/prayer-field-content.php:88
+#: admin/prayer-field-content.php:99 admin/prayer-field-content.php:109
+#: admin/prayer-field-content.php:123 admin/prayer-field-content.php:133
+#: admin/prayer-field-content.php:143 admin/prayer-field-content.php:153
+#: admin/prayer-field-content.php:169 admin/prayer-field-content.php:179
+#: admin/prayer-field-content.php:195 admin/prayer-field-content.php:210
+#: admin/prayer-field-content.php:223 admin/prayer-field-content.php:233
+#: admin/prayer-field-content.php:245 admin/prayer-field-content.php:259
+#: admin/prayer-field-content.php:271 admin/prayer-field-content.php:283
+#: admin/prayer-field-content.php:297 admin/prayer-field-content.php:311
+#: admin/prayer-field-content.php:329 admin/prayer-field-content.php:341
+#: admin/prayer-field-content.php:360 admin/prayer-field-content.php:372
+#: admin/prayer-field-content.php:382 admin/prayer-field-content.php:394
+#: admin/prayer-field-content.php:406 admin/prayer-field-content.php:418
+#: admin/prayer-field-content.php:433 admin/prayer-field-content.php:445
+#: admin/prayer-field-content.php:457
 msgid ""
 "As you look at this image, how does God lead you to pray for these people?"
 msgstr ""
 "Когда вы смотрите на это изображение, как Бог побуждает вас молиться за этих "
 "людей?"
 
-#: admin/prayer-field-content.php:78
+#: admin/prayer-field-content.php:79
 msgid ""
 "\"This is the grand purpose for which we were created: to enjoy the grace of "
 "Christ as we spread the gospel of Christ from wherever we live, to the ends "
@@ -122,7 +122,7 @@ msgstr ""
 "когда мы распространяем Евангелие Христа, где бы мы ни жили, до края земли». "
 "- Дэвид Платт "
 
-#: admin/prayer-field-content.php:82
+#: admin/prayer-field-content.php:83
 msgid ""
 "God, we love you! As your Church, help us do what it takes to gladden the "
 "hearts of your people [in location] as they understand that Jesus completely "
@@ -134,7 +134,7 @@ msgstr ""
 "Иисус полностью и совершенно очистил от греха, а затем воссел одесную "
 "Величия! (Евреям 1:3-4)"
 
-#: admin/prayer-field-content.php:83
+#: admin/prayer-field-content.php:84
 msgid ""
 "I am Abraham and I grew up in a Muslim family in India. The doctor said the "
 "baby inside my pregnant wife would die. Followers of Jesus offered to pray "
@@ -158,7 +158,7 @@ msgstr ""
 "недостигнутыми Евангелием. Молитесь, чтобы Царство Божье пришло в [in "
 "location] и по всему мусульманскому миру."
 
-#: admin/prayer-field-content.php:84
+#: admin/prayer-field-content.php:85
 msgid ""
 "“So Peter was kept in prison, but earnest prayer for him was made to God by "
 "the church.” (Acts 12:5 ESV).\n"
@@ -168,15 +168,15 @@ msgid ""
 "prayer. (Acts 12:5) Lord Jesus, deepen the faith and sustain the dependent "
 "prayers of the church [in location].\""
 msgstr ""
-"«Петр был под стражей в темнице, а церковь горячо молилась о нем Богу». "
-"(Деяния 12:5).\n"
+"«Петр был под стражей в темнице, а церковь горячо молилась о нем Богу». ("
+"Деяния 12:5).\n"
 "\n"
 "Когда церковь [in location] преследуется и даже когда последователей Иисуса "
 "заключают в тюрьму, пусть церковь будет вовлечена в искреннюю, настойчивую "
 "молитву. (Деяния 12:5) Господь Иисус, углубляй веру и поддерживай "
-"зависимость церкви от молитвы в [in location]»."
+"зависимость церкви от молитвы в [in location]"
 
-#: admin/prayer-field-content.php:88
+#: admin/prayer-field-content.php:89
 msgid ""
 "“There is not a square inch in the whole domain of our human existence over "
 "which Christ, who is Sovereign over all, does not cry, Mine!” - Abraham "
@@ -186,7 +186,7 @@ msgstr ""
 "над которым Христос, Властелин над всем, не воскликнул бы: Мое!» - Авраам "
 "Кайпер"
 
-#: admin/prayer-field-content.php:92
+#: admin/prayer-field-content.php:93
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that when Jesus taught us to pray to you "
@@ -196,7 +196,7 @@ msgstr ""
 "чтобы люди [of location] поняли Благую Весть о том, что, когда Иисус учил "
 "нас молиться, Он сказал нам называть Тебя своим Отцом! (Матфея 6:6-14)"
 
-#: admin/prayer-field-content.php:93
+#: admin/prayer-field-content.php:94
 msgid ""
 "Fawad saw a Facebook ad one day about the prophet Abraham ready to sacrifice "
 "his son. He had questions and he reached out to a Christian social media "
@@ -210,8 +210,19 @@ msgid ""
 "to be bold to share their faith with many others. Pray for more families "
 "like Fawad's [in location]."
 msgstr ""
+"Однажды Фавад увидел рекламу в Facebook о пророке Аврааме, готовом принести "
+"в жертву своего сына. У него были вопросы, и он обратился к христианской "
+"странице в социальной сети. Он участвовал во многих разговорах. После "
+"трехмесячного общения он решил довериться Иисусу. Фавад сделал смелый "
+"поступок после того, как стал верующим. Он пригласил членов своей семьи "
+"послушать его разговор по телефону с христианином. Его жена и дети сидели с "
+"ним, когда он говорил об Иисусе, и через пару месяцев все они приняли "
+"решение пойти по стопам Фавада и стать последователями Иисуса. Пожалуйста, "
+"молитесь, чтобы Фавад, его жена и трое детей укрепились в своей вере и "
+"продолжали смело делиться своей верой со многими другими. Молитесь о большем "
+"количестве таких семей, как семья Фавада в [in location]."
 
-#: admin/prayer-field-content.php:94
+#: admin/prayer-field-content.php:95
 msgid ""
 "“but you shall cling to the Lord your God just as you have done to this "
 "day.” (Joshua 23:8 ESV).\n"
@@ -222,15 +233,26 @@ msgid ""
 "ahead to which they can look for example and encouragement in faithful "
 "finishing of the race (2 Timothy 4:7)."
 msgstr ""
+"«но прилепитесь к Господу Богу вашему, как вы это делали до сего дня». ("
+"Иисус Навин 23:8).\n"
+"Укрепи духовные руки верующих в [in location], чтобы они могли прилепиться к "
+"Господу Богу своему. (Иисус Навин 23:8)\n"
+"\n"
+"Даруй церкви [in location] постоянно растущее число тех, кто продвинулся "
+"вперед, к кому другие могут обратиться в качестве примера и ободрения в "
+"верном завершении отмеренной Богом дистанции (2 Тимофею 4:7)."
 
-#: admin/prayer-field-content.php:99
+#: admin/prayer-field-content.php:100
 msgid ""
 "“Never pity missionaries; envy them. They are where the real action is — "
 "where life and death, sin and grace, Heaven and Hell converge.” - Robert C. "
 "Shannon"
 msgstr ""
+"«Никогда не жалейте миссионеров; завидуйте им. Они там, где настоящее "
+"действие — где сходятся жизнь и смерть, грех и благодать, рай и ад». - "
+"Роберт С. Шеннон"
 
-#: admin/prayer-field-content.php:103
+#: admin/prayer-field-content.php:104
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus' cross was the one place in the "
@@ -239,8 +261,15 @@ msgid ""
 "sorrowful, acquainted with grief, smitten, afflicted, pierced, crushed, "
 "chastised, and anguished (Isaiah 52-53) so that WE don't have to be."
 msgstr ""
+"Боже, мы любим тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что крест Иисуса был "
+"единственным местом в мировой истории, в котором справедливость и милосердие "
+"Отца были одновременно исполнены, когда Он был презрен и отвергнут людьми, "
+"презираем, неся скорби, познавший горе, пораженный, страдающий, пронзенный, "
+"сокрушенный, наказанный и страдающий (Исаия 52-53) так, что благодаря Ему мы "
+"свободны теперь."
 
-#: admin/prayer-field-content.php:104
+#: admin/prayer-field-content.php:105
 msgid ""
 "Sakib was born in a Muslim family but had many doubts about his religion. He "
 "found the truth in the Holy Bible. He said, “Now it is my responsibility to "
@@ -249,8 +278,14 @@ msgid ""
 "about the Bible. Pray for Sakib and multitudes of others around the Muslim "
 "world who are being tranformed through the Living Word of God. "
 msgstr ""
+"Сакиб родился в мусульманской семье, но сомневался в своей религии. Он нашел "
+"истину в Библии. Он сказал: «Теперь я обязан призвать свою семью и людей в "
+"моем районе на путь истины, потому что [Holy Bible] — идеальное средство». "
+"Теперь ему интересно начать больше узнавать о Библии. Молитесь за Сакиба и "
+"множество других людей в мусульманском мире, которые преображаются через "
+"Живое Слово Божье. "
 
-#: admin/prayer-field-content.php:105
+#: admin/prayer-field-content.php:106
 msgid ""
 "“Their idols are like scarecrows in a cucumber field, and they cannot speak; "
 "they have to be carried, for they cannot walk. Do not be afraid of them, for "
@@ -263,21 +298,35 @@ msgid ""
 "would you grant believers [in location] humility, gentleness, and "
 "discernment as they fight idolatry in community."
 msgstr ""
+"«Эти идолы, как пугала на бахче, - не могут говорить; их нужно носить – они "
+"не умеют ходить. Не бойтесь их, ведь они не в силах причинить вам зла, но и "
+"добра сделать не могут.». (Иеремия 10:5).\n"
+"\n"
+"Пусть идолы культуры [in location] раскроются в своем молчаливом, "
+"неподвижном мошенничестве, которым они являются, и пусть у церкви будет "
+"ясность и мудрость, чтобы противостоять идолопоклонству во всех его формах. ("
+"Иеремия 10:5) Господи Боже, даруй верующим [in location] смирение, мягкость "
+"и проницательность, когда они борются с идолопоклонством в обществе."
 
-#: admin/prayer-field-content.php:109
+#: admin/prayer-field-content.php:110
 msgid ""
 "\"We must be global Christians with a global vision because our God is a "
 "global God.\" - John Stott"
 msgstr ""
+"«Мы должны быть глобальными христианами с глобальным видением, потому что "
+"наш Бог — глобальный Бог». - Джон Стотт"
 
-#: admin/prayer-field-content.php:113
+#: admin/prayer-field-content.php:114
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we receive grace IN Christ! (1 "
 "Corinthians 1:4)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что мы получаем "
+"благодать только через Христа! (1 Коринфянам 1:4)"
 
-#: admin/prayer-field-content.php:114
+#: admin/prayer-field-content.php:115
 msgid ""
 "Jannat had a question for a Christian she was talking to: \"I read some "
 "parts of the Bible, and there I found that Jesus came only for the Jews, but "
@@ -297,8 +346,25 @@ msgid ""
 "through the teachings of the Bible so that they can come to faith in Christ "
 "with others. "
 msgstr ""
+"У Джаннат был вопрос к христианину, с которым она разговаривала: «Я читала "
+"некоторые части Библии, и там я обнаружила, что Иисус пришел только для "
+"евреев, но там также говорится, что, когда Он был распят, Он является "
+"спасителем человечества. Какое у вас есть доказательства этого?\n"
+" \n"
+"Последовала долгая дискуссия о многих отрывках из Библии. Через несколько "
+"дней Джаннат попросила свою подругу прислать ссылки на Библию, доказывающие, "
+"что ислам неверен. После долгих дней дискуссий она начала верить в Иисуса, "
+"но не в то, что Он Сын Божий. В конце концов, Джаннат попросила Новый Завет. "
+"Джаннат просит помолиться за нее, потому что, хотя она все еще на пути ко "
+"Христу, ее семья замечает изменения в ее поведении и из-за этого создает ей "
+"проблемы.\n"
+"\n"
+"Молитесь, чтобы Джаннат и многие ищущие истины во всем мусульманском мире "
+"обрели благодать и мудрость, чтобы распознать, кто в их семье будет открыт "
+"для познания Бога через учения Библии, чтобы они могли прийти к вере во "
+"Христа вместе с другими. "
 
-#: admin/prayer-field-content.php:119
+#: admin/prayer-field-content.php:120
 msgid ""
 "“For we who have believed enter that rest, as he has said, “As I swore in my "
 "wrath, ‘They shall not enter my rest,’” although his works were finished "
@@ -310,21 +376,36 @@ msgid ""
 "with boldness and satisfaction with all that you've done, are doing, and "
 "will do among all the tribes and tongues [of location] and the whole earth."
 msgstr ""
+"«Но мы, поверившие, входим в Его покой, так как Бог сказал: «Поэтому Я "
+"поклялся в гневе Моем: они не войдут в Мой покой!» Он сказал это, несмотря "
+"на то что Он уже закончил сотворение мира еще в самом начале.». (Евреям 4:3)."
+"\n"
+"\n"
+"Творец Боже, Твоя работа по привлечению к Себе всех народов на земле была "
+"завершена от основания мира. (Евреям 4:3) Пусть слава твоего завершенного "
+"дела и твоя вечная мудрость наполнят церковь [in location] дерзновением и "
+"удовлетворением всем, что ты сделал, делаешь и будешь делать среди всех "
+"племен и языков [of location] и всей земли."
 
-#: admin/prayer-field-content.php:123
+#: admin/prayer-field-content.php:124
 msgid ""
 "\"We talk of the second coming; half the world has never heard of the first."
 "\" - Oswald J. Smith"
 msgstr ""
+"«Мы говорим о втором пришествии; половина мира никогда не слышала о первом». "
+"- Освальд Дж. Смит"
 
-#: admin/prayer-field-content.php:127
+#: admin/prayer-field-content.php:128
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that our redemption is IN Christ! (Romans "
 "3:24)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что наше искупление во "
+"Христе! (Римлянам 3:24)"
 
-#: admin/prayer-field-content.php:128
+#: admin/prayer-field-content.php:129
 msgid ""
 "My name is Khalid and I am a follower of Jesus in Morocco. My abusive Father "
 "died this year and I am the oldest in my family. It is my job to care for my "
@@ -339,8 +420,20 @@ msgid ""
 "and surrender to Him. Pray for believers [in location] who, like Khalid, are "
 "trying to lead their family on a journey to Christ."
 msgstr ""
+"Меня зовут Халид, и я последователь Иисуса в Марокко. Мой отец умер в этом "
+"году, и я самый старший в семье. Это теперь моя обязанность заботиться о "
+"моей матери и моих братьях и сестрах. Я хочу сделать для своей семьи гораздо "
+"больше, чем просто культурный долг. Как последователь Иисуса, я хочу больше "
+"проявлять свою любовь. Моя мать говорила мне, какие изменения она заметила "
+"во мне и какой я хороший сын. Я знаю, что это из-за Иисуса, но она еще не "
+"знает этого. Я говорил с ней о том, чтобы полностью отдаться Богу. Я нахожу "
+"способы делиться стихами, которые помогают нам всей семьей познать Божью "
+"любовь и истину. Молитесь за меня и мою семью, пока я веду их по пути "
+"познания Бога и как мы, как семья, можем жить в полном познании Его и "
+"подчиниться Ему. Молитесь за верующих [in location], которые, как Халид, "
+"пытаются вести свою семью на пути ко Христу."
 
-#: admin/prayer-field-content.php:129
+#: admin/prayer-field-content.php:130
 msgid ""
 "“He who testifies to these things says, “Surely I am coming soon.” Amen. "
 "Come, Lord Jesus!” (Revelation 22:20 ESV).\n"
@@ -350,21 +443,33 @@ msgid ""
 "in harmony: \"Come, Lord Jesus!\" (Revelation 22:20) Grant each follower [in "
 "location] eternal hope in the glory of your return."
 msgstr ""
+"«Свидетельствующий об этом говорит: – Да, Я скоро приду! Аминь! Приди, "
+"Господь Иисус!» (Откровение 22:20).\n"
+"\n"
+"Господи Иисусе, напиши этот клич ожидания в сердцах церкви [in location] "
+"так, чтобы их жизнь и их слова возносили крик в гармонии: \"Гряди, Господи "
+"Иисусе!\" (Откровение 22:20) Даруй каждому последователю [in location] "
+"вечную надежду во славе Твоего возвращения."
 
-#: admin/prayer-field-content.php:133
+#: admin/prayer-field-content.php:134
 msgid ""
 "\"Some wish to live within the sound of a chapel bell; I wish to run a "
 "rescue mission within a yard of hell.\" - C. T. Studd"
 msgstr ""
+"«Некоторые хотят жить, наслаждаясь звуками церковного храма; я хочу "
+"проводить спасательную миссию в сантиметре от ада». - К. Т. Стадд"
 
-#: admin/prayer-field-content.php:137
+#: admin/prayer-field-content.php:138
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we are justified IN Christ! "
 "(Galatians 2:17)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли благую весть о том, что мы оправданы во "
+"Христе! (Галатам 2:17)"
 
-#: admin/prayer-field-content.php:138
+#: admin/prayer-field-content.php:139
 msgid ""
 "Malik is a 49 year old man from Gilgit Baltistan area. He had a lot of "
 "doubts about Islam that led him to explore Christianity. He shared that he "
@@ -383,8 +488,24 @@ msgid ""
 "direction. Pray for him to grow in his faith and lead others who are in "
 "search of the truth. "
 msgstr ""
+"Малик — 49-летний мужчина из района Гилгит-Балтистан. У него было много "
+"сомнений относительно ислама, которые привели его к изучению христианства. "
+"Он поделился, что ему было очень трудно найти доказательства каких-либо "
+"чудес, совершенных Мухаммедом. Одним из популярных чудес, которые совершил "
+"Мухаммед, было разделение луны пополам. Чем больше он вникал в историю этого "
+"события, тем большее разочарование чувствовал. Никто не записал это событие "
+"в историю как правдивое. С другой стороны, чудеса, которые совершал Иисус, "
+"имели бесчисленных свидетелей и были признаны на протяжении всей истории. "
+"Его друг-христианин рассказал ему о власти Иисуса совершать эти чудеса. "
+"Малик узнал, что Иисус не только исцелял людей, но и прощал грехи. Ему не "
+"терпелось узнать, что еще мог сделать Иисус, и когда он узнал об авторитете "
+"Иисуса, ему стало ясно, что ему нужно следовать за Иисусом. Он молился о "
+"своем спасении и стал последователем Иисуса Христа. Молитесь за Малика, так "
+"как есть много других, кто знаком с христианством, но нуждается в "
+"руководстве, чтобы вести их в правильном направлении. Молитесь, чтобы он "
+"возрастал в своей вере и вел за собой других, ищущих истину. "
 
-#: admin/prayer-field-content.php:139
+#: admin/prayer-field-content.php:140
 msgid ""
 "“I will cut off the chariot from Ephraim and the war horse from Jerusalem; "
 "and the battle bow shall be cut off, and he shall speak peace to the "
@@ -398,21 +519,35 @@ msgid ""
 "would you grant them to shake the foundations of society with the power of "
 "their sacrifice, service, and forgiveness."
 msgstr ""
+"«Он истребит колесницы в Ефреме и коней боевых в Иерусалиме, и лук боевой "
+"будет сломан. Он возвестит мир народам. Его владычество будет от моря до "
+"моря и от реки Евфрата – до краев земли». (Захария 9:10).\n"
+"\n"
+"Господи Боже, сломи оружие духовной и физической войны, вредящее церкви [in "
+"location], и возвести мир этому и каждому народу, в то время, как Ты строишь "
+"свое Царство до края земли. (Захария 9:10) Пусть Твой миротворческий дух "
+"глубоко укоренится в церкви [in location] и даруй ей потрясти основы "
+"общества силой своей жертвенности, служения и прощения."
 
-#: admin/prayer-field-content.php:143
+#: admin/prayer-field-content.php:144
 msgid ""
 "\"Pray as though everything depended on God. Work as though everything "
 "depended on you.\" - Augustine"
 msgstr ""
+"«Молитесь так, будто все зависит от Бога. Работайте так, будто все зависит "
+"от вас». - Августин"
 
-#: admin/prayer-field-content.php:147
+#: admin/prayer-field-content.php:148
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we have complete forgiveness of all "
 "our sins IN Christ! (Ephesians 4:32)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что у нас есть полное "
+"прощение всех наших грехов во Христе! (Ефесянам 4:32)"
 
-#: admin/prayer-field-content.php:148
+#: admin/prayer-field-content.php:149
 msgid ""
 "Ahran, a new believer in Morocco shared: \"I have always admired "
 "Christianity and its teachings, and I have always seen that those who "
@@ -425,8 +560,19 @@ msgid ""
 "Christ.  Pray that he and others like him [in location] will grow in their "
 "new faith and find a strong fellowship of believers."
 msgstr ""
+"Аран, новообращенный из Марокко, поделился: «Я всегда восхищался "
+"христианством и его учением, и я всегда видел, что те, кто верят и следуют "
+"за Христом, — это люди, большинство из которых хорошие и высоконравственные. "
+"Я посмотрел видео на вашем Арабском сайте, где человек рассказывает о своем "
+"опыте со Христом. Меня впечатлило то, что Христос сделал с ним, и это "
+"побудило меня общаться с вами, чтобы узнать больше. Христос есть Господь, и "
+"любой мудрый человек не может игнорировать свою жизнь. Когда я принял Христа "
+"в свою жизнь и молился, я чувствовал большое утешение и мир\". Слава Богу за "
+"Арена и его новую жизнь во Христе. Молитесь, чтобы он и другие, подобные ему "
+"в [in location], росли в своей новой вере и нашли сильную христианскую "
+"общину."
 
-#: admin/prayer-field-content.php:149
+#: admin/prayer-field-content.php:150
 msgid ""
 "“Mark the blameless and behold the upright, for there is a future for the "
 "man of peace.” (Psalm 37:37 ESV).\n"
@@ -437,21 +583,34 @@ msgid ""
 "followers [in location] in the future you have sovereignly prepared for them "
 "and guide their feet in the way of peace that leads to you and your glory."
 msgstr ""
+"«Наблюдай за непорочным, смотри на праведного, потому что у любящих мир есть "
+"будущее». (Псалом 36:37).\n"
+"\n"
+"Господи, воздвигни в церкви [in location] смелых миротворцев — мужчин и "
+"женщин, которые всем сердцем верят в Твоё обещание, что у человека, любящего "
+"мир есть будущее. (Псалом 36:37) Иисус, утверди надежду Своих последователей "
+"в [in location] на будущее, которое Ты суверенно приготовил для них, и "
+"направь их ноги на путь мира, который ведет к Тебе и Твоей славе."
 
-#: admin/prayer-field-content.php:153
+#: admin/prayer-field-content.php:154
 msgid ""
 "The Spirit of Christ is the Spirit of missions. The nearer we get to Him, "
 "the more intensely missionary we become. - Henry Martyn"
 msgstr ""
+"Дух Христа — это Дух миссии. Чем ближе мы приближаемся к Нему, тем более "
+"активными миссионерами мы становимся. - Генри Мартин"
 
-#: admin/prayer-field-content.php:157
+#: admin/prayer-field-content.php:158
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that there is no condemnation at all IN "
 "Christ! (Romans 8:1)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что во Христе вообще "
+"никакого осуждения! (Римлянам 8:1)"
 
-#: admin/prayer-field-content.php:158
+#: admin/prayer-field-content.php:159
 msgid ""
 "Mahmoud is a young man from Upper Egypt whose family lives in a small "
 "village. When he was eight years old, he was sent to Cairo to work to help "
@@ -492,8 +651,47 @@ msgid ""
 "Pray for the masses, who are held in the grip of cultural traditions and the "
 "bondage of Islam, to find the hope and the freedom in Jesus Christ."
 msgstr ""
+"Махмуд — молодой человек из северной части Египта, семья которого живет в "
+"небольшой деревне. Когда ему было восемь лет, его отправили в Каир работать, "
+"чтобы помогать семье. Во время своего первого визита в Каир он встретил "
+"своего дядю, у которого собирался работать. Его дядя заставлял его работать "
+"весь день, и когда день закончился, он думал, что пойдет домой с дядей к его "
+"семье. Вместо этого дядя запер его в темной комнате над его костюмной "
+"фабрикой. Махмуд испугался и сел в углу, прижав ноги к груди и крепко "
+"обхватив их руками. Он просидел и проплакал всю ночь, и все, что он мог "
+"видеть, — это свет, пробивающийся сквозь дыры в крыше, который освещал крыс, "
+"ползающих по стропилам. Когда взошло солнце, он, наконец, заснул, тогда его "
+"дядя открыл дверь и отправил его на работу еще на двенадцать часов.\n"
+"\n"
+"Когда Махмуд вернулся домой, он был настолько травмирован, что заснул на "
+"своей циновке на полу. Он спал неделю, и мама не могла разбудить его, за "
+"исключением того, когда клала ему в рот небольшое количество еды. В конце "
+"недели отец отвел его к имаму, который сказал семье, что в него вселились "
+"злые духи. Он взял с семьи большую сумму денег и написал несколько стихов из "
+"Корана на специальной бумаге, поместил ее в воду, чтобы она растворилась, и "
+"заставил его выпить ее. Это было началом жизни в путешествиях и работе, "
+"чтобы помочь содержать свою семью, пока он, наконец, не переехал в Каир на "
+"полную ставку в возрасте 14 лет, чтобы работать. Он не нашел надежды в своей "
+"жизни и обратился за помощью к исламу, но ему сказали, что ему просто нужно "
+"молиться 5 раз в день.\n"
+"\n"
+"Надежда пришла однажды, когда кто-то поделился Благой Вестью с Махмудом в "
+"кафе, где он работал. Установились отношения, и в какой-то момент ему был "
+"дан Новый Завет. Он часто беседовал об Иисусе, и однажды он рассказал об "
+"этом своему отцу. Когда Махмуд в очередной раз приехал погостить домой, отец "
+"взял Новый Завет и начал его читать. Махмуд продолжал работать, чтобы помочь "
+"своим сестрам выйти замуж, а младшему брату поступить в университет. Его "
+"дяди так жестоко обращались с ним, что он решил переехать в другую страну, "
+"чтобы найти работу, и он был очень благословлен в этом переезде. Разговоры "
+"продолжаются, надежда растет, теперь он читает Библию и движется туда, где "
+"сможет преодолеть рабство ислама и принять свободу, которая приходит с "
+"Иисусом. Молитесь, чтобы Махмуд достиг того момента в своей жизни, когда он "
+"отдаст свою жизнь Иисусу.\n"
+"\n"
+"Молитесь, чтобы массы людей, находящиеся во власти культурных традиций и "
+"рабства ислама, нашли надежду и свободу в Иисусе Христе."
 
-#: admin/prayer-field-content.php:165
+#: admin/prayer-field-content.php:166
 msgid ""
 "“You have given me the shield of your salvation, and your right hand "
 "supported me, and your gentleness made me great.” (Psalm 18:35 ESV).\n"
@@ -503,21 +701,33 @@ msgid ""
 "countercultural servanthood that your kingdom alone counts as great. (Psalm "
 "18:35) Teach your followers [in location] the true meaning of greatness."
 msgstr ""
+"«Ты вручил мне щит спасения Твоего, и поддерживает меня правая рука Твоя; "
+"Милость Твоя меня возвеличивает». (Псалом 17:36 НРП).\n"
+"\n"
+"Господь, как Твоя милость сделала Давида великим царем по Твоему сердцу, так "
+"пусть Твоя милость формирует и вдохновляет церковь [in location] ходить в "
+"межкультурном служении, где только Твое Царство почитается величайшим. ("
+"Псалом 17:36) Научи Твоих последователей в [in location] истинному смыслу "
+"величия."
 
-#: admin/prayer-field-content.php:169
+#: admin/prayer-field-content.php:170
 msgid ""
 "This generation of Christians is responsible for this generation of souls on "
 "the earth! — Keith Green"
 msgstr ""
+"Это поколение христиан ответственно за это поколение душ на земле! — Кит Грин"
 
-#: admin/prayer-field-content.php:173
+#: admin/prayer-field-content.php:174
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we are new creations IN Christ! (2 "
 "Corinthians 5:17)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что мы новое творение во "
+"Христе! (2 Коринфянам 5:17)"
 
-#: admin/prayer-field-content.php:174
+#: admin/prayer-field-content.php:175
 msgid ""
 "Mesbah from Bangladesh said that, \"Atheism seemed right after one becomes "
 "disillusioned with his religion”. But later he realized that this vast and "
@@ -530,8 +740,19 @@ msgid ""
 "and women [in location] hear and turn to the One who spoke them into "
 "existence and continues to speak through the Word who became flesh."
 msgstr ""
+"Месбах из Бангладеша сказал, что «атеизм кажется истиной после того, как "
+"человек разочаровывается в своей религии». Но позже он понял, что эта "
+"огромная и упорядоченная вселенная и каждый уникальный ее аспект не были "
+"созданы случайно. Эти мастерски созданные творения должны быть делом рук "
+"Творца. Позже он посетил церковную службу. Пастор представил отличный "
+"аргумент в пользу существования Творца. После этого Месбех присоединился к "
+"изучению Библии и через несколько дней крестился. Молитесь, чтобы, когда «"
+"Небеса проповедуют славу Божию, и о делах рук Его вещает твердь...» (Пс. "
+"18:1-4), мужчины и женщины [in location] услышали и обратились к Тому, по "
+"чему Слову все произошло и Кто продолжает говорить через Слово, ставшее "
+"плотью."
 
-#: admin/prayer-field-content.php:175
+#: admin/prayer-field-content.php:176
 msgid ""
 "“If others share this rightful claim on you, do not we even more? "
 "Nevertheless, we have not made use of this right, but we endure anything "
@@ -546,22 +767,38 @@ msgid ""
 "claims, you are faithful to bear the fruit of glory from the tree of "
 "suffering. May it be so [in location]."
 msgstr ""
+"«Если другие имеют у вас власть, не паче ли мы? Однако мы не пользовались "
+"сею властью, но все переносим, дабы не поставить какой преграды "
+"благовествованию Христову». (1 Коринфянам 9:12 НРП).\n"
+"\n"
+"Иисус, даруй церкви [in location] благодать дорожить Твоим именем превыше "
+"всего, чтобы они были готовы с надеждой переносить любые страдания или "
+"испытания, а не видеть препятствие на пути Твоего Евангелия. (1 Коринфянам "
+"9:12) Трудностей и препятствий на пути распространения Евангелия в [in "
+"location] много, но, когда церковь утверждает и отстаивает истину, Ты верен, "
+"чтобы принести плод славы с дерева страданий. Да будет так в [in location]."
 
-#: admin/prayer-field-content.php:179
+#: admin/prayer-field-content.php:180
 msgid ""
 "We can reach our world, if we will. The greatest lack today is not people or "
 "funds. The greatest need is prayer. — Wesley Duewel, head of OMS "
 "International"
 msgstr ""
+"Мы можем достичь нашего мира, если захотим. Самая большая нехватка сегодня — "
+"это не люди или средства. Самая большая потребность – это молитва. — Уэсли "
+"Дьюэл, глава миссии OMS International"
 
-#: admin/prayer-field-content.php:183
+#: admin/prayer-field-content.php:184
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we have eternal life IN Christ! "
 "(Romans 6:23)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что мы имеем вечную "
+"жизнь во Христе! (Римлянам 6:23)"
 
-#: admin/prayer-field-content.php:184
+#: admin/prayer-field-content.php:185
 msgid ""
 "When I was 29 years old I became addicted to drugs after my fiance broke up "
 "with me and my job was terrible.\n"
@@ -591,8 +828,36 @@ msgid ""
 "now I love them very much. We are no longer under the control of sin. I have "
 "become a new person and I am full of hope."
 msgstr ""
+"Когда мне было 29 лет, я пристрастилась к наркотикам после того, как мой "
+"жених расстался со мной, и моя работа была ужасной.\n"
+"\n"
+"Жить было настолько плохой, что я купила столько наркотиков, сколько могла, "
+"чтобы покончить жизнь самоубийством. Когда я лежала там, ожидая смерти, я "
+"молилась: «Аллах Ты или Бог? Кто бы ты ни был, спаси меня. Я не думала, что "
+"жизнь может быть такой тяжелой. Люди жестоки и бесчувственны. Я зависима от "
+"алкоголя и наркотиков. Я знаю, что это плохо, но я использую их, чтобы "
+"убежать. Пожалуйста, помоги мне, если Ты меня слышишь, помогите мне. Если я "
+"заслуживаю ада за самоубийство, останови меня прямо сейчас. Я хочу быть "
+"счастливой, ни от чего не завися. Я жила далеко от Тебя и обидела Тебя, "
+"покажи мне, где я сделала ошибку, и научи меня, как начать все сначала. Я "
+"скоро умру, Боже, помоги мне!»\n"
+"\n"
+"Потом я заснула. Я услышала во сне голос, говорящий: «Просите, и дано будет "
+"вам; ищите и найдете; стучите и вам откроют. Ибо всякий, кто просит, "
+"получает; кто ищет, тот находит; и тому, кто постучит, отворят».\n"
+"\n"
+"Я понятия не имела, что это значит, но через некоторое время я встретила "
+"христианина, который достал Библию и показал мне те же самые слова, которые "
+"я слышала во сне. Они были из 7-й главы Евангелия от Матфея. Когда я читала, "
+"я обрела покой, и Иисус дал мне надежду. Я поняла, что Иисус – Господь и "
+"Спаситель. За очень короткое время Иисус дал мне исцеление, надежду и "
+"благословения. Я избавилась от всех своих зависимостей и вредных привычек "
+"без какой-либо медицинской помощи. Иисус спас меня, и благодаря Библии я "
+"теперь очень хорошо знаю Бога и знаю, что Он любящий Отец. Раньше я не "
+"любила людей, теперь я их очень люблю. Мы больше не находимся под властью "
+"греха. Я стала новым человеком, и надежда переполняет меня."
 
-#: admin/prayer-field-content.php:191
+#: admin/prayer-field-content.php:192
 msgid ""
 "“Come and hear, all you who fear God, and I will tell what he has done for "
 "my soul.” (Psalm 66:16 ESV).\n"
@@ -604,20 +869,33 @@ msgid ""
 "they exhort one another to testify and may your Spirit carry faithfully that "
 "testimony to ears you've prepared to hear and receive it."
 msgstr ""
+"«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он "
+"для души моей». (Псалом 65:16).\n"
+"\n"
+"Господи Боже, Ты верно написал свидетельство своей страстной любви к людям ["
+"of location] на протяжении всей истории и жизней людей. Поднимай поколение "
+"Твоих последователей в [of location], которые восклицают с псалмопевцем: «"
+"Придите и послушайте, и я скажу вам, что Бог сделал для моей души!» (Псалом "
+"65:16). Пусть они убеждают друг друга свидетельствовать, и пусть Твой Дух "
+"верно донесет это свидетельство до ушей тех, которых Ты приготовил услышать "
+"и принять."
 
-#: admin/prayer-field-content.php:195
+#: admin/prayer-field-content.php:196
 msgid ""
 "“The history of missions is the history of answered prayer.” - Samuel Zwemer"
-msgstr ""
+msgstr "«История миссий — это история отвеченных молитв». - Самуэль Цвемер"
 
-#: admin/prayer-field-content.php:199
+#: admin/prayer-field-content.php:200
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that you supply all our needs IN Christ! "
 "(Philippians 4:19)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Ты восполняешь все "
+"наши нужды во Христе! (Филиппийцам 4:19)"
 
-#: admin/prayer-field-content.php:200
+#: admin/prayer-field-content.php:201
 msgid ""
 "Jane from Senegal found herself pregnant as a teenager and so somehow gave "
 "her self an abortion. A few years later, she was pregnant again. This time "
@@ -634,8 +912,22 @@ msgid ""
 "find freedom in Jesus as they follow His example in receiving forgiveness "
 "for their sins and extending forgiveness to those who have wronged them."
 msgstr ""
+"Джейн из Сенегала оказалась беременной в подростковом возрасте и каким-то "
+"образом сделала себе аборт. Через несколько лет она снова забеременела. На "
+"этот раз она решила оставить ребенка, но, чтобы не опозорить семью, родители "
+"заставили ее сделать аборт. Она была на 5 месяце беременности, и ребенок "
+"родился живым. Ее мать показала ей младенца, а затем похоронила его заживо. "
+"Джейн жила в горе, гневе и горечи после этого события.\n"
+"\n"
+"В четверг вечером она прошла через прощение с командой душепопечителей, "
+"обучающих заботе о душе. Это было очень сложно. Были слезы, но Иисус принес "
+"в ее жизнь прекрасную свободу.\n"
+"\n"
+"Молитесь за духовных искателях в [in location] и во всем мусульманском мире, "
+"чтобы они обрели свободу в Иисусе, следуя Его примеру в получении прощения "
+"за свои грехи и прощении тех, кто причинил им зло."
 
-#: admin/prayer-field-content.php:205
+#: admin/prayer-field-content.php:206
 msgid ""
 "“Then my enemies will turn back in the day when I call. This I know, that "
 "God is for me.” (Psalm 56:9 ESV).\n"
@@ -646,22 +938,36 @@ msgid ""
 "persecution, loneliness, and temptation they might join the saints across "
 "generations in saying \"This I know, that God is for me.\" (Psalm 56:9).\n"
 msgstr ""
+"«Враги мои обращаются назад, когда я взываю к Тебе, из этого я узнаю, что "
+"Бог за меня». (Псалом 55:10).\n"
+"\n"
+"Бог Отец, посей семя святой уверенности в сердцах Твоих последователей в [in "
+"location]. Пусть они возрастают в смиренной, вечной уверенности в "
+"завершенном Тобой деле благодати, чтобы даже в самые темные ночи гонений, "
+"одиночества и искушений они могли присоединиться к святым через все "
+"поколения, говоря: «Я знаю, что Бог за меня». (Псалом 55:10).\n"
 
-#: admin/prayer-field-content.php:210
+#: admin/prayer-field-content.php:211
 msgid ""
 "In our lifetime, wouldn't it be sad if we spent more time washing dishes or "
 "swatting flies or mowing the yard or watching television than praying for "
 "world missions? — Dave Davidson"
 msgstr ""
+"Разве не было бы печально, если бы в нашей жизни мы бы тратили больше "
+"времени на мытье посуды, отмахивание мух, стрижку двора или просмотр "
+"телевизора, чем на молитвы о всемирных миссиях? — Дэйв Дэвидсон"
 
-#: admin/prayer-field-content.php:214
+#: admin/prayer-field-content.php:215
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we have every spiritual blessing of "
 "Heaven IN Christ! (Ephesians 1:3)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что мы имеем все "
+"духовные благословения Небес во Христе! (Ефесянам 1:3)"
 
-#: admin/prayer-field-content.php:215
+#: admin/prayer-field-content.php:216
 msgid ""
 "Zarish is a new believer in Pakistan who was miraculously healed from a "
 "spinal injury through the power of prayer. She reported feeling the presence "
@@ -678,8 +984,22 @@ msgid ""
 "and across the Muslim world to boldly show to neighbors and friends their "
 "refusal to put hope in anything other than Jesus. \n"
 msgstr ""
+"Зариш — новообращенная в Пакистане, которая чудесным образом исцелилась от "
+"травмы позвоночника благодаря силе молитвы. Она сообщила, что чувствует "
+"присутствие злых духов в своем доме и молится Иисусу, чтобы они ушли из ее "
+"жизни. Многие мусульмане обращаются к святыням и предметам с черной магией, "
+"когда переживают трудности. Эти вещи на самом деле не помогают им, вместо "
+"этого они в конечном итоге запускают зло в свои дома и жизни. Люди делают "
+"это, потому что они в отчаянии и легко следуют за другими, когда им "
+"предлагают быстрое решение. Пожалуйста, молитесь за Зариш, поскольку она "
+"нашла свою новую природу в Иисусе. Молитесь, чтобы она просила помощи только "
+"у Иисуса и чтобы любые злые духи оставили ее в покое.\n"
+"                \n"
+"                Молитесь за наших христианских братьев и сестер в [in "
+"location] и во всем мусульманском мире, чтобы они смело показывали соседям и "
+"друзьям, что они отказываются возлагать надежды на что-либо, кроме Иисуса. \n"
 
-#: admin/prayer-field-content.php:219
+#: admin/prayer-field-content.php:220
 msgid ""
 "“and was declared to be the Son of God in power according to the Spirit of "
 "holiness by his resurrection from the dead, Jesus Christ our Lord, through "
@@ -693,21 +1013,37 @@ msgid ""
 "obedient faith in your followers [in location] that they might teach and "
 "disciple their communities into love for Jesus.\""
 msgstr ""
+"«через воскресение из мертвых, по Духу святости, был объявлен полноправным "
+"Сыном Божьим во всем Его могуществе. Через Него мы получили благодать и "
+"апостольство, чтобы ради Его имени покорить вере людей из всех народов,» ("
+"Римлянам 1:4-5).\n"
+"                \n"
+"Дух Святой, культивируй и взращивай в церкви [in location] дары благодати и "
+"апостольства, чтобы через это прекрасное, уникальное выражение Твоего тела "
+"мы могли видеть покорение вере ради Твоего великого имени всех народов земли "
+"(Римлянам 1:4-5). Формируй сердца и умы послушной веры в своих "
+"последователях в [in location], чтобы они могли учить и наставлять свои "
+"общины в любви к Иисусу»."
 
-#: admin/prayer-field-content.php:223
+#: admin/prayer-field-content.php:224
 msgid ""
 "A church that is not a missionary church is contradicting itself and "
 "quenching the Spirit. – Lausanne Covenant"
 msgstr ""
+"Церковь, которая не является миссионерской, противоречит сама себе и угашает "
+"Дух. – Лозаннское соглашение"
 
-#: admin/prayer-field-content.php:227
+#: admin/prayer-field-content.php:228
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we will be presented to you perfect "
 "IN Christ! (Colossians 1:28)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что мы предстанем пред "
+"Тобой совершенными во Христе! (Колоссянам 1:27)"
 
-#: admin/prayer-field-content.php:228
+#: admin/prayer-field-content.php:229
 msgid ""
 "I was never very religious, and I was a Muslim simply because my parents "
 "were. I believed that God was distant and angry with me. I suffer from a "
@@ -724,8 +1060,22 @@ msgid ""
 "world will know of God’s love and begin to love like Paul wrote about in 1 "
 "Corinthians 13."
 msgstr ""
+"Я никогда не был очень религиозным и был мусульманином просто потому, что "
+"мои родители были мусульманами. Я верил, что Бог был далек и гневался на "
+"меня. Я страдаю редким аллергическим заболеванием. Я боялся за свою жизнь и, "
+"чтобы преодолеть свой страх, пытался молиться, но ничего не чувствовал. "
+"Потом я пытался учить Коран наизусть, но, читая его, находил много "
+"противоречий, и слова меня смущали. Я чувствовал, что Бог хочет, чтобы я "
+"спросил одного из моих друзей о Мессии. Я не знал, что она христианка, но "
+"когда она молилась со мной, процитировала Римлянам 5:8: «Но Бог доказывает "
+"Свою любовь к нам в том, что, когда мы были еще грешниками, Христос умер за "
+"нас». Мне понравились эти слова, и я начал искать свидетельства в интернете. "
+"Я был в поиске, пока, наконец, не почувствовал, что зря трачу время, "
+"откладывая свое решение. Я знал истину и отдал свою жизнь Иисусу Христу. "
+"Молитесь, чтобы многие в мусульманском мире узнали о Божьей любви и начали "
+"любить так, как Павел описал в 1 Коринфянам 13 главе."
 
-#: admin/prayer-field-content.php:229
+#: admin/prayer-field-content.php:230
 msgid ""
 "“Then Paul answered, “What are you doing, weeping and breaking my heart? For "
 "I am ready not only to be imprisoned but even to die in Jerusalem for the "
@@ -736,21 +1086,35 @@ msgid ""
 "they might say with passion and hope \"I am ready not only to be imprisoned, "
 "but even to die...for the name of the Lord Jesus.\" (Acts 21:13)."
 msgstr ""
+"«Но Павел на это ответил:– Зачем вы плачете и разрываете мне сердце? Я готов "
+"не только быть связанным, но и умереть в Иерусалиме ради имени Господа "
+"Иисуса.» (Деяния 21:13).\n"
+"\n"
+"Господь Иисус, поднимай поколение Твоих последователей в [in location], "
+"столь обремененных Твоей славой среди народов и настолько убежденных в Твоей "
+"вечной ценности, чтобы они могли сказать со страстью и надеждой: «Я готов не "
+"только быть заключенным в тюрьму, но даже умереть». ... во имя Господа "
+"Иисуса». (Деяния 21:13)."
 
-#: admin/prayer-field-content.php:233
+#: admin/prayer-field-content.php:234
 msgid ""
 "If the Great Commission is true, our plans are not too big; they are too "
 "small. — Pat Morley"
 msgstr ""
+"Если Великое поручение верно, наши планы не слишком велики; они слишком "
+"малы. — Пэт Морли"
 
-#: admin/prayer-field-content.php:237
+#: admin/prayer-field-content.php:238
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we cannot be separated from your love "
 "IN Christ! (Romans 8:32)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что мы не можем быть "
+"отделены от Твоей любви во Христе! (Римлянам 8:39)"
 
-#: admin/prayer-field-content.php:238
+#: admin/prayer-field-content.php:239
 msgid ""
 "Suneel is a very active MBB (Muslim background believer). He loves to share "
 "the Good News with his friends. One of his friends accepted Jesus recently. "
@@ -760,8 +1124,15 @@ msgid ""
 "for this new brother to continue to grow in his faith and be a witness to "
 "others just like Suneel."
 msgstr ""
+"Сунил - очень активный бывший мусульманин. Он любит делиться Благой Вестью "
+"со своими друзьями. Один из его друзей недавно принял Иисуса. Он вдохновлен "
+"Сунилом и хочет креститься, чтобы провозгласить свою веру.\n"
+"                \n"
+"Пожалуйста, молитесь за Сунила и его усилия делиться своей верой с другими. "
+"Молитесь, чтобы этот новый брат продолжал расти в своей вере и был "
+"свидетелем для других, как и Сунил."
 
-#: admin/prayer-field-content.php:241
+#: admin/prayer-field-content.php:242
 msgid ""
 "“It is enough for the disciple to be like his teacher, and the servant like "
 "his master. If they have called the master of the house Beelzebul, how much "
@@ -774,22 +1145,38 @@ msgid ""
 "(Matthew 10:25). Give your church [in location] a profound satisfaction in "
 "becoming more and more like you, even as the world scoffs and condemns."
 msgstr ""
+"«довольно для ученика, чтобы он был, как учитель его, и для слуги, чтобы он "
+"был, как господин его. Если хозяина дома назвали веельзевулом, не тем ли "
+"более домашних его?». (Матфея 10:25).\n"
+"\n"
+"Святой Дух, вдыхай духовное удовлетворение в своих последователей в [in "
+"location], чтобы они могли противостоять искушениям и осуждениям мира и "
+"вместо этого радостно отдыхать, зная, что ученику достаточно быть похожим на "
+"своего учителя и слуга, как и его господин. (Матфея 10:25). Даруй Твоей "
+"церкви в [in location] глубокое удовлетворение, становясь все более и более "
+"похожей на Тебя, даже когда мир насмехается и осуждает."
 
-#: admin/prayer-field-content.php:245
+#: admin/prayer-field-content.php:246
 msgid ""
 "\"We should not ask, 'What is wrong with the world?', for that diagnosis has "
 "already been given. Rather we should ask, 'What has happened to the salt and "
 "light?'\"John Stott"
 msgstr ""
+"«Мы не должны спрашивать: «Что не так с миром?», потому что этот диагноз уже "
+"поставлен. Скорее, мы должны спрашивать: «Что случилось с солью и светом?» "
+"Джон Стотт"
 
-#: admin/prayer-field-content.php:249
+#: admin/prayer-field-content.php:250
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that we are one body IN Christ! (Romans "
 "12:5)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что мы одно тело во "
+"Христе! (Римлянам 12:5)"
 
-#: admin/prayer-field-content.php:250
+#: admin/prayer-field-content.php:251
 msgid ""
 "Ruhi is ready to take the next step and be baptized.\n"
 "\n"
@@ -802,8 +1189,18 @@ msgid ""
 "Pray for many like Ruhi [in location] that are new to faith and considering "
 "being wed to the Lamb of God through baptism."
 msgstr ""
+"Рухи готова сделать следующий шаг и креститься.\n"
+"\n"
+"«Я была сунитской мусульманкой от рождения, но теперь я принадлежу Иисусу "
+"Христу и стала вести себя лучше. Я изменилась, когда открыла для себя "
+"Иисуса, и стала ближе к Нему. Я живу в постоянном состоянии мира и радости "
+"благодаря Ему. Я хотела бы служить Ему и распространять Его слово. Сейчас я "
+"изучаю Библию и готова к крещению. Пожалуйста, помолитесь за меня».\n"
+"\n"
+"Молитесь за многих, таких как Рухи в [in location], которые недавно приняли "
+"веру и хотят принадлежать Агнцу Божьему через крещение."
 
-#: admin/prayer-field-content.php:255
+#: admin/prayer-field-content.php:256
 msgid ""
 "For we are slaves. Yet our God has not forsaken us in our slavery, but has "
 "extended to us his steadfast love before the kings of Persia, to grant us "
@@ -816,22 +1213,38 @@ msgid ""
 "people of God, \"we are slaves, but our God has not forsaken us in our "
 "slavery.\" (Ezra 9:9)."
 msgstr ""
+"Мы-рабы, но и в рабстве нашем не оставил нас Бог наш. И склонил Он к нам "
+"милость царей Персидских, чтоб они дали нам ожить, воздвигнуть дом Бога "
+"нашего и восстановить его из развалин его, и дали нам ограждение в Иудее и в "
+"Иерусалиме.». (Ездра 9:9).\n"
+"\n"
+"Господь Иисус, утверждай в своих последователях в [in location] их "
+"идентичность рабов — рабов Тебе, их доброму Господину — независимо от того, "
+"насколько контркультурной и провокационной может быть эта идентичность. Да "
+"скажут они вместе с народом Божиим: «мы рабы, но наш Бог не оставил нас в "
+"нашем рабстве». (Ездра 9:9)."
 
-#: admin/prayer-field-content.php:259
+#: admin/prayer-field-content.php:260
 msgid ""
 "It is possible for the most obscure person in a church, with a heart right "
 "toward God, to exercise as much power for the evangelization of the world, "
 "as it is for those who stand in the most prominent positions. — John R. Mott"
 msgstr ""
+"Самый малоизвестный человек в церкви, с сердцем, обращенным к Богу, может "
+"высвобождать столько же силы для евангелизации мира, сколько и те, кто "
+"занимает самые видные посты. — Джон Р. Мотт"
 
-#: admin/prayer-field-content.php:263
+#: admin/prayer-field-content.php:264
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus brought the message of the "
 "Kingdom of Heaven being at hand! (Matthew 4:17)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя Церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус принес весть, "
+"что Царство Небесное близко! (Матфея 4:17)"
 
-#: admin/prayer-field-content.php:264
+#: admin/prayer-field-content.php:265
 msgid ""
 "Shahid became a believer two and a half years ago. He lives in Multan and "
 "comes from a family of “Pir Culture”. His father is a Pir and they have his "
@@ -847,8 +1260,22 @@ msgid ""
 "believer and pray for his wife to also come to know Jesus and not be opposed "
 "to Him."
 msgstr ""
+"Шахид стал верующим два с половиной года назад. Он живет в Мултане и "
+"происходит из семьи «Пир культуры». Его отец - пир, и у них в доме есть "
+"святыня его дедушки, куда местные жители приходят со своими молитвенными "
+"нуждами. Один верующий обучал его более двух лет и устроил ему встречу с "
+"местным пастором и крещение. Для него это большой шаг, потому что крещение "
+"может стать большим испытанием, когда вся твоя семья придерживается "
+"противоположных взглядов. Он недавно женился на мусульманке, которую семья "
+"выбрала для него , и он поделился с ней что он христианин, но она все еще "
+"мусульманка по вере. Он присоединился к поместной церкви и активно растет в "
+"вере.\n"
+"                \n"
+"Пожалуйста, молитесь за Шахида о любых будущих проблемах, с которыми он "
+"столкнется как растущий верующий, и молитесь о том, чтобы его жена также "
+"познала Иисуса и не противостояла Ему."
 
-#: admin/prayer-field-content.php:267
+#: admin/prayer-field-content.php:268
 msgid ""
 "“O our God, will you not execute judgment on them? For we are powerless "
 "against this great horde that is coming against us. We do not know what to "
@@ -861,21 +1288,36 @@ msgid ""
 "[in location] that they might say with your Word, \"we do not know what to "
 "do, but our eyes on you, Lord.\" (2 Chronicles 20:12)."
 msgstr ""
+"«Боже наш! Ты суди их. Ибо нет в нас силы против множества сего великого, "
+"пришедшего на нас, и мы не знаем, что делать, но к Тебе очи наши!» (2 "
+"Паралипоменон 20:12).\n"
+"\n"
+"Бог Отец, Ты видишь безнадежность и сокрушенность, которые окружают и "
+"угрожают твоей церкви в [in location]. Ты видишь, как враг ворует и "
+"уничтожает. И мы просим, чтобы посреди непостижимой и непреодолимой "
+"сокрушенности, Ты возродил и укрепил своих последователей в [in location], "
+"чтобы они могли сказать Твоим Словом: «Мы не знаем, что делать, но наши "
+"глаза к Тебе, Господи. \" (2 Паралипоменон 20:12)."
 
-#: admin/prayer-field-content.php:271
+#: admin/prayer-field-content.php:272
 msgid ""
 "If you take missions out of the Bible, you won't have anything left but the "
 "covers. — Nina Gunter"
 msgstr ""
+"Если вы уберете миссию из Библии, у вас не останется ничего, кроме обложек. —"
+" Нина Гюнтер"
 
-#: admin/prayer-field-content.php:275
+#: admin/prayer-field-content.php:276
 msgid ""
 "God, we love you! As your Church, help us to do what it takes to let the "
 "people [of location] grasp the Good News that Jesus has authority even over "
 "all of nature! (Matthew 8:27)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус имеет власть "
+"даже над всей природой! (Матфея 8:27)"
 
-#: admin/prayer-field-content.php:276
+#: admin/prayer-field-content.php:277
 msgid ""
 "Hamid is a Muslim background believer who is facing a lot of difficulties "
 "and persecution because of his faith. He was reported and arrested by the "
@@ -888,8 +1330,17 @@ msgid ""
 "enemies than friends and his family may also not step up to help him. Pray "
 "for his protection, strength and comfort from God."
 msgstr ""
+"Хамид - бывший мусульманин, который сталкивается с множеством трудностей и "
+"преследований из-за своей веры. На него доложили и его арестовала полиция. "
+"Сейчас он проходит через суд, потому что решил следовать за Иисусом. Полиция "
+"избила, чтобы припугнуть его, и закон может не помочь ему. Этого больше "
+"всего боятся мусульмане, когда решают отвернуться от ислама.\n"
+"                \n"
+"Пожалуйста, молитесь за Хамида, проходящего через это трудное время. У него "
+"больше врагов, чем друзей, и его семья также возможно не вступится за него. "
+"Молитесь о его защите, силе и утешении от Бога."
 
-#: admin/prayer-field-content.php:279
+#: admin/prayer-field-content.php:280
 msgid ""
 "“Do not fear what you are about to suffer. Behold, the devil is about to "
 "throw some of you into prison, that you may be tested, and for ten days you "
@@ -902,22 +1353,38 @@ msgid ""
 "joyfully receive the crown of life that your perfect grace has prepared for "
 "them. (Revelation 2:10)."
 msgstr ""
+"«Не бойся ничего, что тебе надобно будет претерпеть. Вот, диавол будет "
+"ввергать из среды вас в темницу, чтобы искусить вас, и будете иметь скорбь "
+"дней десять. Будь верен до смерти, и дам тебе венец жизни». (Откровение "
+"2:10).\n"
+"\n"
+"Господь Иисус, Ты первый прошел перед нами по пути, показывая, что значит "
+"быть верным до смерти. Даруй своей церкви в [in location] благодать "
+"оставаться верными в провозглашении и святости до смерти, чтобы они могли с "
+"радостью принять венец жизни, который приготовила для них Твоя совершенная "
+"благодать. (Откровение 2:10)."
 
-#: admin/prayer-field-content.php:283
+#: admin/prayer-field-content.php:284
 msgid ""
 "“His authority on earth allows us to dare to go to all the nations. His "
 "authority in heaven gives us our only hope of success. And His presence with "
 "us leaves us no other choice.” -John Stott"
 msgstr ""
+"«Его авторитет на земле позволяет нам осмелиться идти ко всем народам. Его "
+"власть на небесах дает нам надежду только на успех. И Его присутствие с нами "
+"не оставляет нам другого выбора». -Джон Стотт"
 
-#: admin/prayer-field-content.php:287
+#: admin/prayer-field-content.php:288
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus was so overwhelmingly superior "
 "to demons that they literally begged Him for mercy! (Matthew 8:31)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус настолько "
+"превосходит бесов, что они буквально умоляли Его о пощаде! (Матфея 8:31)"
 
-#: admin/prayer-field-content.php:288
+#: admin/prayer-field-content.php:289
 msgid ""
 "Sayed yearned to meet the Jesus he heard about from a Christian friend. His "
 "life was crazy with university, family business responsibilities and being "
@@ -945,8 +1412,33 @@ msgid ""
 "or vision of a man in white?” Many have had this dream, but they have no one "
 "to help them understand what this dream can mean."
 msgstr ""
+"Сайед очень хотел встретить Иисуса, о котором он услышал от друга-"
+"христианина. Его сводила с ума жизнь университетская жизнь, обязанности "
+"семейного бизнеса и общением со всеми своими друзьями. Он всегда был "
+"напряжен и подавлен жизнью. Он только что расстался с девушкой, на которой, "
+"как он думал, женится. Ислам был для него больше семейной традицией, чем "
+"верой, но он не мог думать о чем-то столь личном, как познание Иисуса. Той "
+"ночью его друг-христианин молился и просил, чтобы Иисус открылся Сайеду.\n"
+"\n"
+"Через две ночи после этой молитвы Сайед заснул, и ему стали сниться сны. Во "
+"сне он оказался на улице перед своей квартирой. Он увидел свою девушку на "
+"улице, и она повернулась и улыбнулась ему. Он помахал ей, и она повернулась "
+"и ушла. Он был так расстроен, что сел прямо посреди дороги и начал плакать. "
+"Он почувствовал руку на своем плече и повернулся, сразу же поняв, что это "
+"Иисус. Он почувствовал абсолютный покой, когда Иисус заговорил с ним и "
+"сказал, что любит его. Сайед посмотрел на Иисуса и сказал ему, что у него "
+"красивые волосы. Иисус дал ему расческу, и он начал расчесывать свои волосы, "
+"и они выросли и стали похожи на волосы Иисуса. Сайед сказал Иисусу: «Ты "
+"похож на меня». Иисус улыбнулся и сказал: «Нет, ты похож на меня, потому что "
+"ты создан по Моему образу». Он проснулся ото сна и знал, что молитва той "
+"ночи была услышана.\n"
+"\n"
+"Молитесь о снах и видениях по всему мусульманскому миру, но также молитесь "
+"за тех, кто придет к ним и задаст вопрос: «Вы когда-нибудь видели во сне или "
+"видении человека в белом?» Многим снился этот сон, но им некому помочь "
+"понять, что может означать этот сон."
 
-#: admin/prayer-field-content.php:293
+#: admin/prayer-field-content.php:294
 msgid ""
 "“And we have seen and testify that the Father has sent his Son to be the "
 "Savior of the world.” (1 John 4:14 ESV).\n"
@@ -958,23 +1450,39 @@ msgid ""
 "May your followers [in location] be known for their loyalty and devotion to "
 "this beautiful message."
 msgstr ""
+"«И мы видели и свидетельствуем, что Отец послал Сына Своего Спасителем мира»"
+". (1 Иоанна 4:14).\n"
+"\n"
+"Господи Боже, даруй Твоей церкви в [in location] глаза, чтобы видеть, и "
+"уста, чтобы свидетельствовать о чуде дарования Твоего Сына Иисуса спасителем "
+"мира. (1 Иоанна 4:14) Твой единственный Сын, послан со Своего законного "
+"престола на Небесах, чтобы жить и умереть ради спасения народов. Пусть Твои "
+"последователи в [in location] будут известны своей верностью и преданностью "
+"этому прекрасному посланию."
 
-#: admin/prayer-field-content.php:297
+#: admin/prayer-field-content.php:298
 msgid ""
 "\"I've heard people say, 'I want more of a heart for missions.' I always "
 "respond, 'Jesus tells you exactly how to get it. Put your money in missions "
 "- and in your church and the poor - and your heart will follow.'\" - Randy "
 "Alcorn"
 msgstr ""
+"«Я слышал, как люди говорят: «Я хочу сердце, горящее миссией». Я всегда "
+"отвечаю: «Иисус ясно говорит, как его заполучить. Вкладывайте свои деньги в "
+"миссию, в свою церковь и в бедных, и ваше сердце последует». — Рэнди Алкорн"
 
-#: admin/prayer-field-content.php:301
+#: admin/prayer-field-content.php:302
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus' message was that He wanted us "
 "to follow Him, the greatest man in the history of the universe! (Matthew 9:9)"
 msgstr ""
+"Боже, мы любим тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что послание Иисуса "
+"заключалось в том, что Он хотел, чтобы мы следовали за Ним, величайшим "
+"человеком в истории вселенной! (Матфея 9:9)"
 
-#: admin/prayer-field-content.php:302
+#: admin/prayer-field-content.php:303
 msgid ""
 "After reading the gospel of Matthew, Taariq, a new believer, said, 'I feel "
 "as if I am in another world. I feel at peace. Inner peace, as if I have left "
@@ -988,8 +1496,19 @@ msgid ""
 "Pray for new believers like Taariq to fall in love with Scripture and to "
 "consume it daily."
 msgstr ""
+"Прочитав Евангелие от Матфея, новообращенный Таарик сказал: «Я чувствую себя "
+"так, как будто нахожусь в другом мире. Я чувствую внутренний покой, будто я "
+"ушел из этого мира в совсем другой. Я благодарю вас за всю информацию, "
+"которую вы мне дали. Я прочитал книгу Матфея, и ее слова прямо коснулись "
+"моего сердца. Это чудесно».\n"
+"\n"
+"Мы знаем, что Бог совершает невероятную работу в жизни арабов на Ближнем "
+"Востоке и в Северной Африке.\n"
+"\n"
+"Молитесь о том, чтобы новые верующие, такие как Таарик, полюбили Писание и "
+"ежедневно читали его."
 
-#: admin/prayer-field-content.php:307
+#: admin/prayer-field-content.php:308
 msgid ""
 "“With God we shall do valiantly; it is he who will tread down our "
 "foes.” (Psalm 108:13 ESV).\n"
@@ -1000,20 +1519,31 @@ msgid ""
 "attacks of the enemy, saying \"with God we shall do valiantly, it is he who "
 "will tread down our foes.\" (Psalm 108:13)."
 msgstr ""
+"«С Богом мы окажем силу: Он низложит врагов наших». (Псалом 107:14).\n"
+"\n"
+"Бог Отец , когда твои последователи в [in location] смотрят на ресурсы "
+"врага, выстроенные против них, даруй им бесстрашие и уверенность в Твоей "
+"несравненной силе. Пусть их сердца научатся отвечать на атаки врага, говоря: "
+"«С Богом мы окажем силу: Он низложит врагов наших». (Псалом 107:14)."
 
-#: admin/prayer-field-content.php:311
+#: admin/prayer-field-content.php:312
 msgid ""
 "“What can we do to win these men to Christ?” – Richard Wurmbrand, The Voice "
 "of the Martyrs (referring to the men who were persecuting him)"
 msgstr ""
+"«Что мы можем сделать, чтобы привлечь этих людей ко Христу?» - Ричард "
+"Вурмбранд, Голос мучеников (думая о людях, которые его преследовали)"
 
-#: admin/prayer-field-content.php:315
+#: admin/prayer-field-content.php:316
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus offered us life! (Matthew 10:38)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть, что Иисус предложил нам жизнь! "
+"(Матфея 10:38)"
 
-#: admin/prayer-field-content.php:316
+#: admin/prayer-field-content.php:317
 msgid ""
 "Hamzaa, a taxi driver living in Iraq, first heard about Christianity when "
 "tuning in to a Christian radio station while he was working. He became "
@@ -1041,8 +1571,33 @@ msgid ""
 "friendships to develop and that he will continue to meet with fellow "
 "believers."
 msgstr ""
+"Хамза, водитель такси, живущий в Ираке, впервые услышал о христианстве, "
+"когда во время работы настроился на христианскую радиостанцию. Ему стало "
+"любопытно, и он захотел узнать больше, поэтому начал искать в Интернете. Он "
+"нашел наш сайт арабского служения и отправил нам следующее сообщение. «Я "
+"мусульманин и убежден, что христианство — истинный путь. Я хочу стать "
+"христианином, но не знаю как».\n"
+"\n"
+"Мира*, член нашей арабской группы реагирования, ответила на его сообщение. "
+"Она объяснила ему Евангелие и через некоторое время повела его в молитве, и "
+"Хамза стал христианином. Бог готовил сердце Хамзы в течение некоторого "
+"времени, и как только он нашел наш веб-сайт, он был готов посвятить свою "
+"жизнь Господу.\n"
+"\n"
+"Вскоре после этого мы познакомили Хамзу с местными верующими в Ираке, и он "
+"начал встречаться с ними лицом к лицу. Мы получили это ободряющее сообщение "
+"от местных верующих; «Хамза очень хочет учиться и активно взаимодействует с "
+"нами. Теперь мы встречаемся два раза в неделю и становимся друзьями нашей "
+"группой. Мы собираемся начать совместную деятельность, чтобы развивать эту "
+"дружбу и вместе возрастать в Господе».\n"
+"\n"
+"Бог творит удивительные чудеса по всему арабскому миру.\n"
+"\n"
+"Молитесь, чтобы Хамза продолжал расти в своей вере. Молитесь, чтобы у него "
+"сложились крепкие дружеские отношения и чтобы он продолжал встречаться с "
+"единоверцами."
 
-#: admin/prayer-field-content.php:325
+#: admin/prayer-field-content.php:326
 msgid ""
 "“By Silvanus, a faithful brother as I regard him, I have written briefly to "
 "you, exhorting and declaring that this is the true grace of God. Stand firm "
@@ -1053,21 +1608,34 @@ msgid ""
 "around these precious friends, would you be the solid Rock on which they can "
 "stand and build this eternally valuable corner of your kingdom."
 msgstr ""
+"«С помощью Силуана, которого считаю верным братом, я написал вам это "
+"короткое послание, ободряя и свидетельствуя о том, что написанное мной есть "
+"истинная благодать Божья. Стойте в ней твердо». (1 Петра 5:12 НРП).\n"
+"\n"
+"Небесный Отец, научи Своих последователей в [in location] крепко держаться "
+"за истинную благодать Божью и твердо стоять в ней. (1 Петра 5:12). Когда "
+"вокруг этих драгоценных друзей кружатся страх и сомнение, будь твердой "
+"Скалой, на которой они смогут стоять и строить Твое вечное царство."
 
-#: admin/prayer-field-content.php:329
+#: admin/prayer-field-content.php:330
 msgid ""
 "“We who have Christ’s eternal life need to throw away our own lives.” -"
 "George Verwer"
 msgstr ""
+"«Нам, имеющим вечную жизнь Христа, нужно отказаться от собственной жизни». -"
+"Джордж Вервер"
 
-#: admin/prayer-field-content.php:333
+#: admin/prayer-field-content.php:334
 msgid ""
 "God, we love you! As your Church help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus responded with compassion to "
 "persistent faith! (Matthew 15:28)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус с состраданием "
+"отреагировал на настойчивую веру! (Матфея 15:28)"
 
-#: admin/prayer-field-content.php:334
+#: admin/prayer-field-content.php:335
 msgid ""
 "Tauqeer is a seeker who has been talking to a believer online about whether "
 "Mohammad is the greatest prophet or not? The believer asked him, \"Should we "
@@ -1079,8 +1647,18 @@ msgid ""
 "Pray Taqueer will come to know Jesus did more than perform miracles and will "
 "open his heart to the Truth."
 msgstr ""
+"Таукир — искатель, который разговаривал с христианином онлайн о том, "
+"является ли Мухаммед величайшим пророком или нет? Христианин спросил его: «"
+"Должны ли мы следовать за кем-то, кто мертв, или за тем, кто жив?» Это "
+"смутило Таукира и заставило его усомниться в своих убеждениях. Он задается "
+"вопросом, был ли Иисус больше, чем пророк. Большинство мусульман верят, что "
+"Иисус — всего лишь пророк, пришедший учить людей добру и совершивший "
+"множество чудес.\n"
+"                \n"
+"Молитесь, чтобы Таукир познал, что Иисус не только совершал чудеса, и открыл "
+"свое сердце истине."
 
-#: admin/prayer-field-content.php:337
+#: admin/prayer-field-content.php:338
 msgid ""
 "“he says: “It is too light a thing that you should be my servant to raise up "
 "the tribes of Jacob and to bring back the preserved of Israel; I will make "
@@ -1092,21 +1670,34 @@ msgid ""
 "burns so brightly that it cannot help but be witnessed and shared in every "
 "corner [of location] and to the ends of the earth. (Isaiah 49:6)."
 msgstr ""
+"«Он говорит: «Слишком мало для Тебя быть Моим Слугой, восстановить роды "
+"Иакова и возвратить уцелевших Израиля. Я сделаю Тебя светом для язычников, "
+"чтобы спасение Мое достигло концов земли».(Исаия 49:6).\n"
+"\n"
+"Святой Дух, приди и соверши работу, которую только Ты можешь сделать в "
+"церкви [in location]. Зажги их страстью к славе имени Иисуса, которое горит "
+"так ярко, что оно не может не быть засвидетельствовано и распространено в "
+"каждом уголке [of location] и до краев земли. (Исаия 49:6)."
 
-#: admin/prayer-field-content.php:341
+#: admin/prayer-field-content.php:342
 msgid ""
 "The question is not whether we will die, but whether we will die in a way "
 "that bears much fruit. - Adoniram Judson"
 msgstr ""
+"Вопрос не в том, умрем ли мы, а в том, умрем ли мы так, чтобы принести много "
+"плода. - Адонирам Джадсон"
 
-#: admin/prayer-field-content.php:345
+#: admin/prayer-field-content.php:346
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus had authority over all disease "
 "and disability! (Matthew 15:31)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли благую весть о том, что Иисус имел власть "
+"над всеми болезнями и немощами! (Матфея 15:31)"
 
-#: admin/prayer-field-content.php:346
+#: admin/prayer-field-content.php:347
 msgid ""
 "Farah fled war-torn Syria with her husband and small children when the war "
 "broke out. They found refuge in a nearby country and established a new life "
@@ -1141,8 +1732,41 @@ msgid ""
 "Now, because of Farah's* steadfast faith and determination, many others are "
 "following Jesus.\n"
 msgstr ""
+"Фарах бежала из раздираемой войной Сирии с мужем и маленькими детьми, когда "
+"началась война. Они нашли убежище в соседней стране и начали новую семейную "
+"жизнь. Хотя жизнь беженки в новой стране была трудной, Фарах открыла для "
+"себя открытость, которой не испытывала в Сирии. Впервые она могла "
+"исследовать вопросы о вере и религии. В апреле 2021 года Фарах написала нам "
+"через веб-сайт нашего арабского служения. Она хотела читать Библию, но не "
+"знала, с чего начать. Хабиб*, один из наших служителей, занимающийся "
+"перепиской на арабском языке, разговаривал с Фарах несколько недель. Они "
+"общались в Интернете о многих аспектах христианской веры. Фарах задавала "
+"Хабибу свои вопросы о Библии, и они вместе изучали Слово Божье. Через "
+"короткое время Фарах убедилась и приняла Иисуса Христа как своего Спасителя "
+"и отдала свое сердце Господу.\n"
+"\n"
+"Жизнь Фарах и ее семьи не становилась легче. Она столкнулась с "
+"преследованием, отвержением и дискриминацией из-за своей новой веры. Она "
+"пыталась поделиться историей об Иисусе со своим мужем и детьми, но они не "
+"хотели об этом слышать. Не испугавшись, она начала посещать местную церковь "
+"и крестилась. Фарах продолжала изучать Библию, и ее любовь к Иисусу росла.\n"
+"\n"
+"Она начала регулярно встречаться с группой сирийских женщин и, в конце "
+"концов, почувствовала себя уверенно и поделилась своей верой. Они тоже "
+"хотели познать покой и мир, которые испытывала Фарах и одна за другой отдали "
+"свои жизни Христу. Теперь они встречаются в доме Фарах и вместе изучают "
+"Библию!\n"
+"\n"
+"Фарах остается твердой в своей вере, несмотря на сложные обстоятельства, "
+"болезни, боль, преследования и отвержение. Она верна и продолжает молиться "
+"за мужа и детей. Ее любовь к Иисусу привела эту драгоценную группу сирийских "
+"женщин к познанию и любви Господа. Слава Богу за Фарах и ее смелое желание "
+"делиться своей верой и свидетельствовать окружающим.\n"
+"\n"
+"Теперь, благодаря непоколебимой вере и решимости Фарах*, многие другие "
+"следуют за Иисусом.\n"
 
-#: admin/prayer-field-content.php:356
+#: admin/prayer-field-content.php:357
 msgid ""
 "“And they have conquered him by the blood of the Lamb and by the word of "
 "their testimony, for they loved not their lives even unto "
@@ -1154,21 +1778,35 @@ msgid ""
 "may a heavenly host one day sing over them \"they loved not their lives even "
 "unto death.\" (Revelation 12:11)."
 msgstr ""
+"«Они победили его кровию Агнца и словом свидетельства своего, и не возлюбили "
+"души своей даже до смерти». (Откровение 12:11).\n"
+"\n"
+"Господь Иисус, Твоей кровью Твои последователи в [in location] стали "
+"победителями греха и смерти и даже больше, чем победителями. Пусть Твоя "
+"церковь в [in location] ухватится за вечную надежду и обетования, и пусть "
+"небесное воинство однажды воспоет о них: «Они не возлюбили души своей даже "
+"до смерти». (Откровение 12:11)."
 
-#: admin/prayer-field-content.php:360
+#: admin/prayer-field-content.php:361
 msgid ""
 "“It’s not that God has a mission for His Church in the world, but that God "
 "has a Church for His mission in the world.” – Chris Wright"
 msgstr ""
+"«Дело не в том, что у Бога есть миссия для Его церкви в мире, а в том, что у "
+"Бога есть церковь для исполнения Его миссии в мире». - Крис Райт"
 
-#: admin/prayer-field-content.php:364
+#: admin/prayer-field-content.php:365
 msgid ""
 "God, we love you! As your Church help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus offered a path to greatness in "
 "the Kingdom that anyone could choose to follow! (Matthew 18:4)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус предложил путь "
+"быть великим в Его Царстве, которым каждый может выбрать следовать! (Матфея "
+"18:4)"
 
-#: admin/prayer-field-content.php:365
+#: admin/prayer-field-content.php:366
 msgid ""
 "I am a forty-six years old woman from Tunisia. I saw a vision. The Messiah "
 "said, “I am the Truth.” I had already given up on Islam because of the "
@@ -1179,8 +1817,16 @@ msgid ""
 "Pray that our group of seekers will remain committed to knowing God through "
 "His Word and obeying His commands."
 msgstr ""
+"Я сорокашестилетняя женщина из Туниса. Я видела видение. Мессия сказал: «Я "
+"есть Истина». Я уже отреклась от ислама из-за насилия. Раньше я никогда по-"
+"настоящему не чувствовала Божьего присутствия в своей жизни, но когда я "
+"увидела Мессию, все изменилось. Я почувствовала Божий покой. Я начала читать "
+"Библию с некоторыми христианами.\n"
+"                \n"
+"Молитесь о том, чтобы наша группа ищущих оставалась приверженной познанию "
+"Бога через Его Слово и повиновению Его заповедям."
 
-#: admin/prayer-field-content.php:368
+#: admin/prayer-field-content.php:369
 msgid ""
 "“In days to come Jacob shall take root, Israel shall blossom and put forth "
 "shoots and fill the whole world with fruit.” (Isaiah 27:6 ESV).\n"
@@ -1191,8 +1837,16 @@ msgid ""
 "joyful harvest of souls across the nations and the ends of earth, as you "
 "have promised. (Isaiah 27:6)."
 msgstr ""
+"«В грядущие дни укоренится Иаков, даст отпрыск и расцветет Израиль; и "
+"наполнится плодами вселенная.». (Исаия 27:6).\n"
+"\n"
+"Господь Иисус, пусть надежда на Твою славу и радость Твоего спасения глубоко "
+"укоренятся в Твоей церкви в [in location]. И по Своей благодати и силе "
+"сделай так, чтобы духовные плоды расцвели в этом пустынном месте, положив "
+"начало радостному урожаю душ в разных странах и краях земли, как Ты и "
+"обещал. (Исаия 27:6)."
 
-#: admin/prayer-field-content.php:372
+#: admin/prayer-field-content.php:373
 msgid ""
 "“Rediscover the real meaning of the Great Commission. Beginning in our own "
 "prayer and devotional lives, we must begin to feel the compassion of the "
@@ -1202,16 +1856,27 @@ msgid ""
 "Church. It is something that we are all to be engaged in naturally every "
 "day.” – K.P. Yohannan, Come, Let’s Reach the World"
 msgstr ""
+"«Откройте заново истинное значение великого поручения. Начиная с нашей "
+"собственной молитвенной и посвященной жизни, мы должны начать чувствовать "
+"сострадание Господа к заблудшему и погибующему миру. Как мы уже видели, "
+"великое поручение — это не что-то, что было дано крошечной группе специально "
+"обученных и образованных посланников. Оно было дано всем христианам — всей "
+"церкви. Это то, чем мы все должны заниматься естественным образом каждый "
+"день». – К.П. Йоханнан, Пойдем, достигнем мир"
 
-#: admin/prayer-field-content.php:376
+#: admin/prayer-field-content.php:377
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus knowingly took one step after "
 "another toward Jerusalem knowing He would be condemned to death, mocked, "
 "flogged, crucified and then be raised on the third day! (Matthew 20:19)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус сознательно "
+"делал один шаг за другим к Иерусалиму, зная, что Он будет осужден на смерть, "
+"осмеян, избит, распят, а затем воскреснет на третий день! (Матфея 20:19)"
 
-#: admin/prayer-field-content.php:377
+#: admin/prayer-field-content.php:378
 msgid ""
 "Hamza is a 27 years old man who lives in Punjab. He has always lived his "
 "life following Islamic rules closely but never felt satisfied as a follower. "
@@ -1229,8 +1894,24 @@ msgid ""
 "needed. Hamza talked to the believer for about a week and decided his only "
 "way to heaven is through Jesus. He put his faith in Jesus alone."
 msgstr ""
+"Хамза — 27-летний мужчина, живущий в Панджабе. Он всегда жил, строго следуя "
+"исламским правилам, но никогда не чувствовал себя удовлетворенным как "
+"последователь. Он провел много времени, просматривая видео на YouTube и "
+"Facebook, чтобы научиться быть лучше, но чем больше он смотрел, тем больше "
+"беспокоился. Однажды он просматривал Facebook и наткнулся на контент о "
+"жертве Иисуса. Он никогда раньше не встречался с христианами и мало что знал "
+"о христианской вере. Он решил отправить сообщение и связался с верующим. Он "
+"сказал верующему, что старается следовать всем правилам ислама, но всегда "
+"чувствует беспокойство, потому что у него нет никакой надежды попасть на "
+"небеса. Коран ничего не говорит ему об уверенности в том, что если он будет "
+"соблюдать все правила, то попадет в рай. Он задавал много вопросов о "
+"жертвоприношениях, принесении в жертву животных и о том, почему христиане не "
+"приносят никаких жертвоприношений, и пришел к выводу, что Иисус — "
+"единственная жертва, в которой он нуждался. Хамза разговаривал с верующим "
+"около недели и решил, что его единственный путь на небеса лежит через "
+"Иисуса. Он поверил только Иисусу."
 
-#: admin/prayer-field-content.php:378
+#: admin/prayer-field-content.php:379
 msgid ""
 "“So also you have sorrow now, but I will see you again, and your hearts will "
 "rejoice, and no one will take your joy from you.” (John 16:22 ESV).\n"
@@ -1241,21 +1922,34 @@ msgid ""
 "them. (John 16:22) Even in the darkness of persecution and doubt and fear, "
 "may their joy be unshakable."
 msgstr ""
+"«Так и вы теперь имеете печаль; но Я увижу вас опять, и возрадуется сердце "
+"ваше, и радости вашей никто не отнимет у вас». (Иоанн 16:22).\n"
+"\n"
+"Господь Иисус, напиши обетование о Своем возвращении и силе Своего Духа в "
+"сердцах Твоих последователей в [in location], чтобы они были наполнены "
+"радостью спасения и надеждой, которую никто не может у них отнять. (Иоанна "
+"16:22) Даже во тьме гонений, сомнений и страха пусть их радость будет "
+"непоколебимой."
 
-#: admin/prayer-field-content.php:382
+#: admin/prayer-field-content.php:383
 msgid ""
 "“Jesus promised his disciples three things: they would be completely "
 "fearless, absurdly happy, and in constant trouble.” – G.K. Chesterton"
 msgstr ""
+"«Иисус обещал своим ученикам три вещи: они будут совершенно бесстрашны, "
+"нелепо счастливы и постоянно будут в беде». – Г.К. Честертон"
 
-#: admin/prayer-field-content.php:386
+#: admin/prayer-field-content.php:387
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus taught that for God those who "
 "have died are alive! (Matthew 22:32)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть, которой учил Иисус, что для "
+"Бога те, кто умер, живы! (Матфея 22:32)"
 
-#: admin/prayer-field-content.php:387
+#: admin/prayer-field-content.php:388
 msgid ""
 "Since I was child, I respected Islam, prayed, read the Koran and the Hadith, "
 "and watched Islamic TV programs. As I prayed, I would cry out and ask God to "
@@ -1277,8 +1971,27 @@ msgid ""
 "Pray that we will start a church in our home and that we will boldly tell "
 "others of God’s love."
 msgstr ""
+"С детства я уважала ислам, молилась, читала Коран и Хадис, смотрела "
+"исламские телепередачи. Во время молитвы я плакала и просил Бога приблизить "
+"меня к Нему. Когда я выросла, у меня начались проблемы с семьей. Когда я "
+"делилась своим мнением, казалось, что со мной просто хотели поспорить. В "
+"конце концов, я ушла из дома, чтобы жить со своей сестрой. Однажды ночью, "
+"когда я плакала перед сном, мне было видение человека. Я не могла видеть его "
+"лица, потому что было слишком ярко. Я не выдержала и упала на землю. Во сне "
+"я была молодой и маленькой, на мне была корона. Он положил на меня руку и "
+"сказал: «Ты моя. Не бойся». Я пыталась найти объяснение этому сну. Кто-то "
+"сказал мне, что я видела Мессию. Я ничего не знала о христианстве, но начала "
+"искать. Однажды я написала в Facebook: «Моя единственная надежда, что Бог "
+"примет меня». Мне написал христианин, рассказал о любви Бога ко мне и "
+"прислал стихи из Библии. Внутренне я боролась между тем, во что всегда "
+"верила, и новой истиной, которую узнавала. В конце концов я решила следовать "
+"за Иисусом. Я поделилась со своей семьей, и мои брат, сестра и племянница "
+"тоже приняли Иисуса.\n"
+"                \n"
+"Молитесь, чтобы мы основали церковь у себя дома и чтобы мы смело "
+"рассказывали другим о Божьей любви."
 
-#: admin/prayer-field-content.php:390
+#: admin/prayer-field-content.php:391
 msgid ""
 "“and that repentance for the forgiveness of sins should be proclaimed in his "
 "name to all nations, beginning from Jerusalem.” (Luke 24:47 ESV).\n"
@@ -1291,19 +2004,31 @@ msgid ""
 "and your global mission, even as they grow in boldness within their own "
 "borders."
 msgstr ""
+"«и проповедану быть во имя Его покаянию и прощению грехов во всех народах, "
+"начиная с Иерусалима». (Луки 24:47).\n"
+"\n"
+"Господь Иисус, передай своим последователям в [in location] свою страсть к "
+"собственной славе среди народов, чтобы они исполнились удивления и ожидания "
+"при кажущейся невозможности увидеть покаяние в прощении грехов, возвещаемое "
+"во имя Твое всем народам. (Луки 24:47) Даруй Твоим последователям в [in "
+"location] страсть к великому поручению и Твоей глобальной миссии, даже если "
+"они будут возрастать в смелости в пределах своих собственных границ."
 
-#: admin/prayer-field-content.php:394
+#: admin/prayer-field-content.php:395
 msgid "“Put legs to your prayers” – Ray Comfort"
-msgstr ""
+msgstr "«Прибавьте ноги к вашим молитвам» — Рэй Комфорт"
 
-#: admin/prayer-field-content.php:398
+#: admin/prayer-field-content.php:399
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus invited us to make you the "
 "center of our love and affection! (Matthew 22:37-40)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус пригласил нас "
+"сделать Тебя центром нашей любви и привязанности! (Матфея 22:37-40)"
 
-#: admin/prayer-field-content.php:399
+#: admin/prayer-field-content.php:400
 msgid ""
 "I am a married woman with two daughters. My daughters decided to follow "
 "Jesus, and I fought with them about their decision for a long time. Over "
@@ -1324,8 +2049,26 @@ msgid ""
 "Pray for those who are sick and without hope. That Jesus will appear to them "
 "and heal them so that they may know that He is true and is their Savior."
 msgstr ""
+"Я замужняя женщина, у меня две дочери. Мои дочери решили последовать за "
+"Иисусом, и я долго спорила с ними об их решении. Со временем у меня "
+"развилась болезнь печени. Врач хотел начать лечение. Мои дочери сказали мне, "
+"что будут молиться за меня во имя Иисуса Христа. Они сказали: «Он исцелит "
+"тебя, но более того, Он спасет тебя от твоих грехов». Я подумала: «Нет "
+"проблем. Пусть попробуют, а мы посмотрим, что получится». В то время, когда "
+"они молились, я отдыхала в своей комнате одна, и погода была очень жаркой. Я "
+"почувствовала, как легкий ветерок обдул меня. Я услышала, как голос произнес "
+"мое имя три раза. С каждым разом голос становился сильнее. Я встала и "
+"оделась. Я подошла к своим дочерям и спросила: «Вы меня звали?» Они сказали: "
+"«Нет». Они продолжали молиться за меня. Затем я вернулась в свою комнату и "
+"поняла, что услышала голос Мессии, и Он коснулся меня, исцелив меня. На "
+"следующий день я пошла к врачу. Он сказал: «Пожалуйста, прости нас. Мы "
+"ошибались. Ты не больна». Я отдала свою жизнь Господу и начала свою новую "
+"жизнь с Ним.\n"
+"                \n"
+"Молитесь за тех, кто болен и безнадежен. Чтобы Иисус явился им и исцелил их, "
+"чтобы они узнали, что Он истинен и является их Спасителем."
 
-#: admin/prayer-field-content.php:402
+#: admin/prayer-field-content.php:403
 msgid ""
 "“Though he slay me, I will hope in him; yet I will argue my ways to his "
 "face.” (Job 13:15 ESV).\n"
@@ -1336,23 +2079,39 @@ msgid ""
 "location] to stand in awe and humble reverence toward your perfect plans and "
 "purposes, even as the waves of tragedy and challenge wash over them."
 msgstr ""
+"« Вот, Он убивает меня, но я буду надеяться; я желал бы только отстоять пути "
+"мои пред лицем Его». (Иов 13:15 ЕСВ).\n"
+"\n"
+"Бог Отец, даруй Твоим последователям в [in location] глубокое доверие к "
+"Твоей доброте и суверенной силе, чтобы они могли провозглашать вместе с "
+"Иовом: «Хотя он убьет меня, я буду надеяться на него». (Иов 13:15) Научи "
+"церковь [in location] трепетать и смиренно благоговеть перед Твоими "
+"совершенными планами и целями, даже когда их захлестывают волны трагедий и "
+"испытаний."
 
-#: admin/prayer-field-content.php:406
+#: admin/prayer-field-content.php:407
 msgid ""
 "“I believe that in each generation God has called enough men and women to "
 "evangelize all the yet unreached tribes of the earth. It is not God who does "
 "not call. It is man who will not respond!” – Isobel Kuhn, 1901-1957, "
 "missionary to China and Thailand"
 msgstr ""
+"«Я верю, что в каждом поколении Бог призвал достаточно мужчин и женщин, "
+"чтобы евангелизировать все еще недостигнутые народы земли. Это не Бог, "
+"который не призывает. Это человек, который не ответит!» – Изобель Кун, 1901–"
+"1957, миссионерка в Китае и Таиланде"
 
-#: admin/prayer-field-content.php:410
+#: admin/prayer-field-content.php:411
 msgid ""
 "God, we love you! As your Church help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus is coming back like lightning! "
 "(Matthew 24:27)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус вернется, как "
+"молния! (Матфея 24:27)"
 
-#: admin/prayer-field-content.php:411
+#: admin/prayer-field-content.php:412
 msgid ""
 "I am a twenty-three year old woman. My family situation is very difficult, "
 "especially with my father. I finally ran away. I went through some very hard "
@@ -1370,8 +2129,23 @@ msgid ""
 "                \n"
 "Pray that God will give them strength to forgive."
 msgstr ""
+"Я 23-х летняя женщина. Моя семейная ситуация очень тяжелая, особенно с моим "
+"отцом. Я наконец убежала. Я прошла через очень тяжелые обстоятельства. "
+"Однажды друг познакомил меня с христианской семьей. Они приветствовали меня "
+"и рассказали мне о Мессии. Они сказали: «Мессия может помочь тебе в твоих "
+"страданиях». Позже я зашла в интернет и стала искать решение своих проблем. "
+"Я снова была потрясена, обнаружив информацию о Мессии. Я встретила христиан, "
+"и они много молились со мной. Однажды я проснулась, и у меня была такая "
+"радость в сердце. Я услышала голос, говорящий: «Прими Мессию. Прими Мессию». "
+"Я приняла Христа и была наполнена Святым Духом. Я почувствовала, как новая "
+"жизнь вошла в мое тело, наполнила меня силой и обновила мою душу. В течение "
+"недели Бог начал подсказывать мне простить моего отца. Молитесь, чтобы Бог "
+"дал мне веру, чтобы довериться Ему и простить моего отца. Молитесь за тех, "
+"кто связан рабством горечи и непрощения.\n"
+"                \n"
+"Молитесь, чтобы Бог дал им силы прощать."
 
-#: admin/prayer-field-content.php:414
+#: admin/prayer-field-content.php:415
 msgid ""
 "“Go your way; behold, I am sending you out as lambs in the midst of "
 "wolves.” (Luke 10:3 ESV).\n"
@@ -1383,22 +2157,35 @@ msgid ""
 "even their suffering might a witness to their enemies who would see them "
 "divided and lost. (Luke 10:3)."
 msgstr ""
+"\" Идите! Я посылаю вас, как агнцев среди волков». (Луки 10:3).\n"
+"\n"
+"Господь Иисус, Ты послал своих последователей в [in location] как агнцев "
+"среди волков. Будь для них внимательным, заботливым пастырем, взращивая в "
+"них уверенность и непоколебимость доверяя Тебе, когда волки окружают и "
+"угрожают. Даруй им сверхъестественную, притягательную нежность, чтобы даже "
+"их страдания могли стать свидетельством их врагам. (Луки 10:3)."
 
-#: admin/prayer-field-content.php:418
+#: admin/prayer-field-content.php:419
 msgid ""
 "“If you are ever inclined to pray for a missionary, do it at once, where "
 "ever you are. Perhaps he may be in great peril at that moment.” – Amy "
 "Carmichael, 1867-1951, missionary to India"
 msgstr ""
+"«Если вы когда-нибудь захотите помолиться за миссионера, сделайте это "
+"немедленно, где бы вы ни находились. Возможно, в этот момент он находится в "
+"большой опасности. – Эми Кармайкл, 1867–1951, миссионерка в Индии"
 
-#: admin/prayer-field-content.php:422
+#: admin/prayer-field-content.php:423
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus will bless those who are "
 "faithful in this life! (Matthew 24:47)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус благословит "
+"тех, кто верен в этой жизни! (Матфея 24:47)"
 
-#: admin/prayer-field-content.php:423
+#: admin/prayer-field-content.php:424
 msgid ""
 "I am Nasser, and I am from Afghanistan. When I was a teenager, my family "
 "fled The Taliban and went to Pakistan. I was from a well-to-do family, and "
@@ -1426,8 +2213,32 @@ msgid ""
 "- to multiply disciples, churches, and leaders among every people and place "
 "in that country"
 msgstr ""
+"Я Насер, и я из Афганистана. Когда я был подростком, моя семья бежала от "
+"талибов и уехала в Пакистан. Я был из обеспеченной семьи, и у моих родителей "
+"были деньги, чтобы отправить меня и моих братьев и сестер изучать английский "
+"язык в учебный центр, в котором преподаватели были из западных стран. Один "
+"из преподавателей очень хорошо играл на гитаре, а я раньше не слышал этого "
+"инструмента - у нас в Афганистане другие инструменты. Я спросил его, не "
+"пойдет ли он со мной домой, чтобы поиграть на гитаре у меня дома и поужинать "
+"с моей семьей. Перед тем, как приступить к ужину, мой отец решил почтить "
+"нашего гостя и его культуру, попросив его поблагодарить Аллаха за еду. Когда "
+"этот человек молился, я впервые за всю свою бурную жизнь ощутил покой — я "
+"смотрел на него, когда он молился, и видел этот ошеломляющий покой и "
+"радость, и мне этого хотелось. Когда он закончил молиться, я услышал, как он "
+"сказал на урду: «Во имя Иисуса, аминь». Тогда я понял, что должна быть какая-"
+"то связь с Иисусом и миром и радостью этого парня. В ближайшие недели этот "
+"человек привел меня ко Христу, а затем я привел ко Христу свою семью. Через "
+"пару лет мы вернулись в Афганистан и по милости Божией увидели, как многие "
+"афганцы уверовали во Христа, некоторые даже все еще находятся в Афганистане "
+"и остаются светом при нынешнем режиме.\n"
+"\n"
+"Пожалуйста, молитесь за преследуемую церковь в Афганистане:\n"
+"- любить своих врагов\n"
+"- наполниться любовью и смелостью делиться Евангелием, исцелять больных и "
+"изгонять бесов\n"
+"- умножать учеников, церкви и лидеров среди всех людей и мест в этой стране"
 
-#: admin/prayer-field-content.php:429
+#: admin/prayer-field-content.php:430
 msgid ""
 "“in whom we have boldness and access with confidence through our faith in "
 "him.” (Ephesians 3:12 ESV).\n"
@@ -1439,21 +2250,33 @@ msgid ""
 "obstacle that would threaten the confidence with which these precious ones "
 "enter the Holy of Holies."
 msgstr ""
+"«в Котором мы имеем дерзновение и надежный доступ через веру в Него». ("
+"Ефесянам 3:12).\n"
+"\n"
+"Господь Бог, даруй Твоим последователям в [in location] смелость и "
+"уверенность как сыновей и дочерей Царя, когда Ты заверяешь их не только в их "
+"спасении, но и в их назначении в качестве свидетелей и служителей в этом "
+"разрушенном мире. (Ефесянам 3:12) Удали Своим кротким духом всякую ложь или "
+"препятствие, которые могли бы угрожать уверенности, с которой эти "
+"драгоценные входят во Святое Святых."
 
-#: admin/prayer-field-content.php:433
+#: admin/prayer-field-content.php:434
 msgid ""
 "“Prayer is not a preparation for the battle; it is the battle!” – Leonard "
 "Ravenhill"
-msgstr ""
+msgstr "«Молитва — это не подготовка к битве; это битва!» - Леонард Равенхилл"
 
-#: admin/prayer-field-content.php:437
+#: admin/prayer-field-content.php:438
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus eagerly awaits the Kingdom to "
 "drink wine with us! (Matthew 26:29)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус с нетерпением "
+"ждет Царства, чтобы пить новое вино с нами! (Матфея 26:29)"
 
-#: admin/prayer-field-content.php:438
+#: admin/prayer-field-content.php:439
 msgid ""
 "I am a thirty-year-old man from Tunisia. I was raised in a strict, "
 "practicing Muslim family. The first time I went to a church building, I had "
@@ -1471,8 +2294,23 @@ msgid ""
 "Pray that Muslims this Ramadan will have dreams of Christ and will not be "
 "afraid to share the Good News!"
 msgstr ""
+"Я 30-ти летний мужчина из Туниса. Я вырос в строгой мусульманской семье. В "
+"первый раз, когда я пришел в здание церкви, я был на государственной службе, "
+"чтобы следить за христианами. Я был удивлен их простой проповеди и удивился, "
+"почему мы их боимся. Однажды христиане дали мне Библию и объяснили ее мне. "
+"Они молились за меня. Я пошел домой и молился: «Боже, Ты знаешь меня. Если "
+"ты и вправду Бог, говори со мной». Мне приснился сон. Шесть человек были "
+"распяты на кресте. Мессия тоже был на кресте. Мой друг из полиции дал мне "
+"пистолет и сказал стрелять в них. Мессия сказал: «Я никогда не умру», а "
+"затем указал на остальных: «Они тоже не умрут». Я проснулся и позвонил "
+"своему другу, которого видел во сне. Ему приснился тот же сон! Я понимаю, "
+"что только Мессия предлагает вечную жизнь, и поэтому христиане не боятся. Я "
+"отдал свою жизнь Христу.\n"
+"                \n"
+"Молитесь, чтобы мусульмане в этот Рамадан видели сны и видения о Христе и не "
+"боялись делиться Благой Вестью!"
 
-#: admin/prayer-field-content.php:441
+#: admin/prayer-field-content.php:442
 msgid ""
 "“But though we had already suffered and been shamefully treated at Philippi, "
 "as you know, we had boldness in our God to declare to you the gospel of God "
@@ -1485,23 +2323,40 @@ msgid ""
 "May there be no conflict or persecution that quiets the voices of your "
 "church [in location]."
 msgstr ""
+"«Нам, как вы знаете, пришлось пережить много страданий и унижений в "
+"Филиппах, но с помощью нашего Бога мы смело возвещали вам Его Радостную "
+"Весть, невзирая на сильное сопротивление.». (1 Фессалоникийцам 2:2 НРП).\n"
+"\n"
+"Господь Иисус, ты видишь позорное обращение и страдания многих Твоих "
+"последователей в [in location]. И мы молимся о том, чтобы, когда Твоя "
+"суверенная рука ведет их через невзгоды, они возвысились со смелостью в "
+"своем Боге, чтобы продолжать проповедовать Евангелие среди сильного "
+"сопротивления (1 Фессалоникийцам 2:2) Не дай, чтобы сопротивления или "
+"гонения смогли заглушить голоса Твоей церкви в [in location]."
 
-#: admin/prayer-field-content.php:445
+#: admin/prayer-field-content.php:446
 msgid ""
 "“We never know how God will answer our prayers, but we can expect that He "
 "will get us involved in His plan for the answer. If we are true "
 "intercessors, we must be ready to take part in God’s work on behalf of the "
 "people for whom we pray.” – Corrie Ten Boom"
 msgstr ""
+"«Мы никогда не знаем, как Бог ответит на наши молитвы, но мы можем ожидать, "
+"что Он вовлечет нас в Свой план ответа. Если мы истинные ходатаи, мы должны "
+"быть готовы принять участие в Божьем деле среди тех людей, за которых мы "
+"молимся». – Корри Тен Бум"
 
-#: admin/prayer-field-content.php:449
+#: admin/prayer-field-content.php:450
 msgid ""
 "God, we love you! As your Church, help us do what it takes to let the people "
 "[of location] grasp the Good News that Jesus will be seated at the right "
 "hand of Power and come on the clouds of Heaven! (Matthew 26:64)"
 msgstr ""
+"Боже, мы любим Тебя! Как Твоя церковь, помоги нам сделать все возможное, "
+"чтобы люди [of location] поняли Благую Весть о том, что Иисус воссядет "
+"одесную Всемогущего и придет на облаках Небесных! (Матфея 26:64)"
 
-#: admin/prayer-field-content.php:450
+#: admin/prayer-field-content.php:451
 msgid ""
 "I am a twenty-two year old woman and study at the university. Before I was "
 "born, my mother dedicated me to an Islamic saint and made a covenant. Every "
@@ -1520,8 +2375,24 @@ msgid ""
 "them, and give them new life. Pray also that I will be completely free in "
 "Christ."
 msgstr ""
+"Мне двадцать два года, я учусь в университете. Еще до моего рождения моя "
+"мать посвятила меня исламскому святому и заключила завет. Каждый год моей "
+"жизни меня заставляли возвращаться туда, где похоронен исламский святой, "
+"резать себя и приносить кровавую жертву. Я чувствую, что была в духовном "
+"рабстве и хотела вырваться на свободу. Шесть раз у меня было видение, в "
+"котором кто-то держал меня за руку. Мужчина сказал: «Я люблю тебя. Следуй за "
+"Мной.\" Я задавалась вопросом, может быть это Мессия. Я искала во многих "
+"местах. Наконец, я нашла человека в интернете, который объяснил мне Божью "
+"любовь. К сожалению, я жила во многих грехах, и все мои друзья такие же, как "
+"я. Сначала я отрицала, что мои действия на самом деле были грехом, но "
+"Господь обличил меня, и я провела целую ночь в покаянной молитве. Я знаю "
+"многих других, таких же, как я, живущих во грехе.\n"
+"            \n"
+"            Пожалуйста, молитесь, чтобы Бог обличил их в их грехах, спас их "
+"и дал им новую жизнь. Молитесь также, чтобы я была полностью свободна во "
+"Христе."
 
-#: admin/prayer-field-content.php:453
+#: admin/prayer-field-content.php:454
 msgid ""
 "“And he put the wood in order and cut the bull in pieces and laid it on the "
 "wood. And he said, “Fill four jars with water and pour it on the burnt "
@@ -1534,38 +2405,52 @@ msgid ""
 "majesty before the watchful eyes [of location] and all the nations of the "
 "earth. (1 Kings 18:33)."
 msgstr ""
+"«Он разложил дрова, разрезал быка на части и положил его на дрова. Затем он "
+"сказал: –Наполните четыре больших кувшина водой и вылейте ее на жертву "
+"всесожжения и на дрова.» (3 Царств 18:33,34).\n"
+"\n"
+"Господи Боже, дай Твоей церкви в [in location] смелость Илии, который "
+"попросил еще воды, чтобы пропитать всесожжение на глазах у наблюдающего "
+"народа. Даруй тот же самый дух своим последователям в [in location], чтобы "
+"они могли смело призывать Твою силу и Твоим именем освобождать и "
+"свидетельствовать о величии перед наблюдающими глазами [of location] и всеми "
+"народами земли. (1 Царств 18:33)."
 
-#: admin/prayer-field-content.php:457
+#: admin/prayer-field-content.php:458
 msgid ""
 "“The greatest missionary is the Bible in the mother tongue. It needs no "
 "furlough and is never considered a foreigner.” – William Cameron "
 "Townsend,1896-1982, Missionary to Peru and Mexico"
 msgstr ""
+"«Величайший миссионер — это Библия на родном языке. Он не нуждается в "
+"отпуске и никогда не считается иностранцем». – Уильям Кэмерон Таунсенд, 1896–"
+"1982 гг., миссионер в Перу и Мексике"
 
-#: admin/prayer-field-content.php:487
+#: admin/prayer-field-content.php:488
 msgid "Our Treasure in Jesus"
-msgstr ""
+msgstr "Наше сокровище во Христе"
 
-#: admin/prayer-field-content.php:495
+#: admin/prayer-field-content.php:496
 msgid "Testimonies from Around the World"
-msgstr ""
+msgstr "Свидетельства со всего мира"
 
-#: admin/prayer-field-content.php:503
+#: admin/prayer-field-content.php:504
 msgid "Biblical Prayers"
-msgstr ""
+msgstr "Молитвы Писанием"
 
-#: admin/prayer-field-content.php:511
+#: admin/prayer-field-content.php:512
 msgid "Prayer Walk"
 msgstr "Молитвенная прогулка"
 
-#: admin/prayer-field-content.php:523
+#: admin/prayer-field-content.php:524
 msgid "Inspirational Quotes"
-msgstr ""
+msgstr "Вдохновляющие цитаты"
 
-#: admin/prayer-field-content.php:528
+#: admin/prayer-field-content.php:529
 msgid ""
 "How could this quote inspire you to pray for [people_group]? For yourself?"
 msgstr ""
+"Как эта цитата вдохновляет вас молиться за народы [people_group]? За себя?"
 
 #, fuzzy
 #~ msgctxt ""
