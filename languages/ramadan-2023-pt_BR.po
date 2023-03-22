@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple.Tools - Prayer Campaigns 2.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2023\n"
-"POT-Creation-Date: 2023-03-16T09:58:20+00:00\n"
-"PO-Revision-Date: 2023-03-22 08:11+0000\n"
+"POT-Creation-Date: 2023-03-22T08:15:53+00:00\n"
+"PO-Revision-Date: 2023-03-22 13:04+0000\n"
 "Last-Translator: Jaqueline Galhardo <jaqueline_galhardo@protonmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.disciple.tools/"
 "projects/pray4movement/ramadan-2023/pt_BR/>\n"
@@ -228,7 +228,6 @@ msgstr ""
 "mais famílias como a de Fawad [in location]."
 
 #: admin/prayer-field-content.php:95
-#, fuzzy
 msgid ""
 "“but you shall cling to the Lord your God just as you have done to this "
 "day.” (Joshua 23:8 ESV).\n"
@@ -293,7 +292,6 @@ msgstr ""
 "transformados pela Palavra Viva de Deus. "
 
 #: admin/prayer-field-content.php:106
-#, fuzzy
 msgid ""
 "“Their idols are like scarecrows in a cucumber field, and they cannot speak; "
 "they have to be carried, for they cannot walk. Do not be afraid of them, for "
@@ -374,7 +372,6 @@ msgstr ""
 "eles possam vir à fé em Cristo com os outros. "
 
 #: admin/prayer-field-content.php:120
-#, fuzzy
 msgid ""
 "“For we who have believed enter that rest, as he has said, “As I swore in my "
 "wrath, ‘They shall not enter my rest,’” although his works were finished "
@@ -445,7 +442,6 @@ msgstr ""
 "tentando guiar sua família em uma jornada para Cristo."
 
 #: admin/prayer-field-content.php:130
-#, fuzzy
 msgid ""
 "“He who testifies to these things says, “Surely I am coming soon.” Amen. "
 "Come, Lord Jesus!” (Revelation 22:20 ESV).\n"
@@ -586,7 +582,6 @@ msgstr ""
 "sua nova fé e encontrem uma comunidade firme no Senhor."
 
 #: admin/prayer-field-content.php:150
-#, fuzzy
 msgid ""
 "“Mark the blameless and behold the upright, for there is a future for the "
 "man of peace.” (Psalm 37:37 ESV).\n"
@@ -764,8 +759,8 @@ msgstr ""
 "participou de um culto na igreja. O pastor apresentou um excelente argumento "
 "para a existência do Criador. Depois disso, Mesbeh participou de um estudo "
 "bíblico e foi batizado em Cristo alguns dias depois. Ore assim como \"os "
-"céus declaram a glória de Deus, e o céu proclama a obra de suas mãos ...\" ("
-"Salmo 19:1-4), homens e mulheres [in location]possam ouvir e se voltarem "
+"céus declaram a glória de Deus, e o céu proclama a obra de suas mãos ..."
+"\" (Salmo 19:1-4), homens e mulheres [in location]possam ouvir e se voltarem "
 "para Aquele que os trouxe à existência e continua a falar por meio da "
 "Palavra que se tornou carne."
 
@@ -887,14 +882,14 @@ msgid ""
 "testimony to ears you've prepared to hear and receive it."
 msgstr ""
 "“Venham e ouçam, todos vocês que temem a Deus; vou contar-lhes o que ele fez "
-"por mim.” (Salmo 66:16 NVI).\n"
+"por mim.” (Salmo 66:16 NVI)\n"
 "\n"
 "Senhor Deus, você escreveu fielmente o testemunho de seu amor apaixonado "
 "pelas pessoas [of location] ao longo da história. Levante Pai, uma geração "
 "de seguidores [in location] que clamam como o salmista: \"venha e ouça e eu "
 "lhe contarei o que Deus fez por minha alma!\" (Salmo 66:16) Que eles exortem "
 "uns aos outros para serem abençoados e que seu Espírito leve fielmente esse "
-"testemunho aos ouvidos que você já preparou de antemão para ouvir e receber"
+"testemunho aos ouvidos que você já preparou de antemão para ouvir e receber."
 
 #: admin/prayer-field-content.php:196
 msgid ""
@@ -946,7 +941,6 @@ msgstr ""
 "àqueles que os prejudicaram."
 
 #: admin/prayer-field-content.php:206
-#, fuzzy
 msgid ""
 "“Then my enemies will turn back in the day when I call. This I know, that "
 "God is for me.” (Psalm 56:9 ESV).\n"
@@ -959,7 +953,7 @@ msgid ""
 msgstr ""
 "“Os meus inimigos retrocederão, quando eu clamar por socorro. Com isso "
 "saberei que Deus está a meu favor.”\n"
-"‭ (Salmo 56:9 NVI).\n"
+"(Salmo 56:9 NVI).\n"
 "\n"
 "Deus Pai, poderias plantar a semente da santa confiança nos corações de seus "
 "seguidores [in location]. Que eles possam crescer na humilde e eterna "
@@ -1021,7 +1015,6 @@ msgstr ""
 "sua recusa em colocar esperança em qualquer coisa que não seja Jesus. \n"
 
 #: admin/prayer-field-content.php:220
-#, fuzzy
 msgid ""
 "“and was declared to be the Son of God in power according to the Spirit of "
 "holiness by his resurrection from the dead, Jesus Christ our Lord, through "
@@ -1098,7 +1091,6 @@ msgstr ""
 "de Deus e comecem a amar como Paulo escreveu em 1 Coríntios 13."
 
 #: admin/prayer-field-content.php:230
-#, fuzzy
 msgid ""
 "“Then Paul answered, “What are you doing, weeping and breaking my heart? For "
 "I am ready not only to be imprisoned but even to die in Jerusalem for the "
@@ -1157,7 +1149,6 @@ msgstr ""
 "testemunha para os outros como Suneel."
 
 #: admin/prayer-field-content.php:242
-#, fuzzy
 msgid ""
 "“It is enough for the disciple to be like his teacher, and the servant like "
 "his master. If they have called the master of the house Beelzebul, how much "
@@ -1226,7 +1217,6 @@ msgstr ""
 "batizar."
 
 #: admin/prayer-field-content.php:256
-#, fuzzy
 msgid ""
 "For we are slaves. Yet our God has not forsaken us in our slavery, but has "
 "extended to us his steadfast love before the kings of Persia, to grant us "
@@ -1538,7 +1528,6 @@ msgstr ""
 "meditem nelas diariamente."
 
 #: admin/prayer-field-content.php:308
-#, fuzzy
 msgid ""
 "“With God we shall do valiantly; it is he who will tread down our "
 "foes.” (Psalm 108:13 ESV).\n"
@@ -1630,7 +1619,6 @@ msgstr ""
 "amizades se desenvolvam e que ele continue a se encontrar com outros crentes."
 
 #: admin/prayer-field-content.php:326
-#, fuzzy
 msgid ""
 "“By Silvanus, a faithful brother as I regard him, I have written briefly to "
 "you, exhorting and declaring that this is the true grace of God. Stand firm "
@@ -1643,13 +1631,13 @@ msgid ""
 msgstr ""
 "“Com a ajuda de Silvano, a quem considero irmão fiel, eu escrevi "
 "resumidamente, encorajando-os e testemunhando que esta é a verdadeira graça "
-"de Deus. Mantenham-se firmes na graça de Deus.” (1 Pedro 5:12 NVI).\n"
+"de Deus. Mantenham-se firmes na graça de Deus.” (1 Pedro 5:12 NVI)\n"
 "\n"
 "Pai Celestial, ensine seus seguidores [in location] a se apegarem à "
 "verdadeira graça de Deus e a permanecerem firmes nela. (1 Pedro 5:12) À "
 "medida que o medo e a dúvida giram em torno desses preciosos amigos, você "
 "seria a rocha firme na qual eles podem se firmar e construir algo "
-"eternamente valioso no seu reino?"
+"eternamente valioso no seu reino."
 
 #: admin/prayer-field-content.php:330
 msgid ""
@@ -1682,8 +1670,8 @@ msgid ""
 "open his heart to the Truth."
 msgstr ""
 "Tauqeer é alguém que está buscando respostas e que tem conversado com um "
-"crente online sobre Maomé ser o maior profeta ou não? O crente perguntou-lhe:"
-" \"Devemos seguir alguém que está morto ou alguém que está vivo?\" Isso "
+"crente online sobre Maomé ser o maior profeta ou não? O crente perguntou-"
+"lhe: \"Devemos seguir alguém que está morto ou alguém que está vivo?\" Isso "
 "confundiu Tauqeer e o fez questionar suas crenças. Ele está questionando se "
 "Jesus era mais do que um profeta. A maioria dos muçulmanos acredita que "
 "Jesus é apenas um profeta que veio para ensinar coisas boas às pessoas e "
@@ -1693,7 +1681,6 @@ msgstr ""
 "para que ele abra seu coração para a Verdade."
 
 #: admin/prayer-field-content.php:338
-#, fuzzy
 msgid ""
 "“he says: “It is too light a thing that you should be my servant to raise up "
 "the tribes of Jacob and to bring back the preserved of Israel; I will make "
@@ -1868,7 +1855,6 @@ msgstr ""
 "mandamentos."
 
 #: admin/prayer-field-content.php:369
-#, fuzzy
 msgid ""
 "“In days to come Jacob shall take root, Israel shall blossom and put forth "
 "shoots and fill the whole world with fruit.” (Isaiah 27:6 ESV).\n"
@@ -1955,7 +1941,6 @@ msgstr ""
 "fé somente em Jesus."
 
 #: admin/prayer-field-content.php:379
-#, fuzzy
 msgid ""
 "“So also you have sorrow now, but I will see you again, and your hearts will "
 "rejoice, and no one will take your joy from you.” (John 16:22 ESV).\n"
@@ -2105,18 +2090,17 @@ msgstr ""
 "que acontece.” Naquela hora, quando elas estavam orando, eu estava "
 "descansando em meu quarto sozinha e estava muito quente. Senti uma brisa "
 "suave soprar sobre mim. Ouvi uma voz dizer meu nome três vezes. Em cada vez "
-"a voz era mais forte. Levantei e me vesti. Fui até minhas filhas e perguntei:"
-" “Você me chamou?” Elas disseram: “não”. E elas continuaram orando por mim. "
-"Então voltei para o meu quarto e percebi que tinha ouvido a voz do Messias, "
-"e Ele me tocou e me curou. No dia seguinte fui ao médico. Ele disse: “Por "
-"favor, nos perdoe. Nós estávamos errados. Você não está doente\" .Entreguei "
-"minha vida ao Senhor e comecei a caminhar com Cristo.\n"
+"a voz era mais forte. Levantei e me vesti. Fui até minhas filhas e "
+"perguntei: “Você me chamou?” Elas disseram: “não”. E elas continuaram orando "
+"por mim. Então voltei para o meu quarto e percebi que tinha ouvido a voz do "
+"Messias, e Ele me tocou e me curou. No dia seguinte fui ao médico. Ele "
+"disse: “Por favor, nos perdoe. Nós estávamos errados. Você não está doente"
+"\" .Entreguei minha vida ao Senhor e comecei a caminhar com Cristo.\n"
 "                \n"
 "Ore por aqueles que estão doentes e sem esperança. Que Jesus apareça para "
 "eles e os cure para que saibam que Ele é Verdadeiro e é o seu Salvador."
 
 #: admin/prayer-field-content.php:403
-#, fuzzy
 msgid ""
 "“Though he slay me, I will hope in him; yet I will argue my ways to his "
 "face.” (Job 13:15 ESV).\n"
@@ -2291,7 +2275,6 @@ msgstr ""
 "lugares naquele país"
 
 #: admin/prayer-field-content.php:430
-#, fuzzy
 msgid ""
 "“in whom we have boldness and access with confidence through our faith in "
 "him.” (Ephesians 3:12 ESV).\n"
@@ -2329,8 +2312,8 @@ msgid ""
 msgstr ""
 "Deus, nós te amamos! Como sua Igreja, ajude-nos a fazer o que for preciso "
 "para que as pessoas [of location] compreendam as Boas Novas de que Jesus "
-"espera ansiosamente em que em seu Reino Ele beberá um vinho novo conosco! ("
-"Mateus 26:29)"
+"espera ansiosamente em que em seu Reino Ele beberá um vinho novo conosco! "
+"(Mateus 26:29)"
 
 #: admin/prayer-field-content.php:439
 msgid ""
