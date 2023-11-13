@@ -26,7 +26,7 @@ class P4_Ramadan_2023_Content {
             $slug = str_replace( ' ', '-', strtolower( gmdate( 'F j Y', strtotime( $start . ' + ' . $i . ' day' ) ) ) );
             $post_content = implode( '', wp_unslash( $day['content'] ) );
 
-//            $day = DT_Campaign_Settings::what_day_in_campaign( $post_date );
+//            $day = DT_Campaign_Fuel::what_day_in_campaign( $post_date );
 
             $args = [
                 'post_title'    => $title,
