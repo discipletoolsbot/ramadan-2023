@@ -131,7 +131,7 @@ class Ramadan_2023_Tab_General {
                         </p>
                         <p>
                             Ramadan prayer fuel is available in multiple languages.
-                            <a href="https://pray4movement.org/docs/translation/#2-toc-title" target="_blank">Help us translate it into your language here.</a>
+                            <a href="https://prayer.tools/docs/translation/#2-toc-title" target="_blank">Help us translate it into your language here.</a>
                         </p>
                         <table class="">
                             <thead>
